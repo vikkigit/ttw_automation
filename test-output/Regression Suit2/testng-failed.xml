@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Regression Suit2]">
+  <test name="test(failed)">
+    <classes>
+      <class name="com.test.automation.uiAutomation.homepage.TC001_verifylogin_withinvalidcredentials">
+        <methods>
+          <include name="exit"/>
+          <include name="aftermethod"/>
+          <include name="endtest"/>
+          <include name="beforemethod"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.test.automation.uiAutomation.homepage.TC001_verifylogin_withinvalidcredentials -->
+      <class name="com.test.automation.uiAutomation.homepage.TC003_booking">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="endtest"/>
+          <include name="beforemethod"/>
+          <include name="startup"/>
+          <include name="selectpackage"/>
+        </methods>
+      </class> <!-- com.test.automation.uiAutomation.homepage.TC003_booking -->
+      <class name="com.test.automation.uiAutomation.homepage.TC002_verifylogin_withvalidcredentials">
+        <methods>
+          <include name="logintest_valid" invocation-numbers="0"/>
+          <include name="aftermethod"/>
+          <include name="endtest"/>
+          <include name="setup"/>
+          <include name="beforemethod"/>
+        </methods>
+      </class> <!-- com.test.automation.uiAutomation.homepage.TC002_verifylogin_withvalidcredentials -->
+    </classes>
+  </test> <!-- test(failed) -->
+</suite> <!-- Failed suite [Regression Suit2] -->

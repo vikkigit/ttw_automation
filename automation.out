@@ -1,0 +1,835 @@
+2017-05-16 16:50:42 INFO  Homepage:37 - clicking on signin:[[ChromeDriver: chrome on XP (071ea84524e795a4417599b95f52e514)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-05-16 16:50:50 INFO  Homepage:47 - alert text is:Authentication failed.
+2017-05-16 18:25:59 INFO  TC001_verifylogin_withinvalidcredentials:23 - ===================Starting the browser===========
+2017-05-16 18:25:59 INFO  Homepage:37 - clicking on signin:[[ChromeDriver: chrome on XP (7125cd7e3217084e57a4f71c88a31fee)] -> xpath: //a[@class='signinLink'] ]
+2017-05-16 18:27:58 INFO  TC001_verifylogin_withinvalidcredentials:23 - ===================Starting the browser===========
+2017-05-16 18:27:58 INFO  Homepage:39 - clicking on signin:[[ChromeDriver: chrome on XP (7c6158e28c47b168440990e53f30e0ce)] -> xpath: //a[@class='signinLink'] ]
+2017-05-16 18:31:00 INFO  TC001_verifylogin_withinvalidcredentials:23 - ===================Starting the browser===========
+2017-05-16 18:31:01 INFO  Homepage:39 - clicking on signin:[[ChromeDriver: chrome on XP (df10885915742bb72eacbb28c883b8d4)] -> xpath: //a[@class='signinLink'] ]
+2017-05-16 18:33:05 INFO  TC001_verifylogin_withinvalidcredentials:23 - ===================Starting the browser===========
+2017-05-16 18:33:06 INFO  Homepage:39 - clicking on signin:[[ChromeDriver: chrome on XP (ca71396e23c824d606b5762875d64f98)] -> xpath: //a[@class='signinLink'] ]
+2017-05-16 18:45:35 INFO  TC001_verifylogin_withinvalidcredentials:23 - ===================Starting the browser===========
+2017-05-16 18:45:35 INFO  Homepage:39 - clicking on signin:[[ChromeDriver: chrome on XP (7ae81abf2ebd7bcc2d36a707939a4f71)] -> xpath: //div[@id='navbar']/ul/li[1]/a ]
+2017-05-16 18:47:09 INFO  TC001_verifylogin_withinvalidcredentials:23 - ===================Starting the browser===========
+2017-05-16 18:47:09 INFO  Homepage:39 - clicking on signin:[[ChromeDriver: chrome on XP (4260362a060e3160b4abe4e2027c8573)] -> xpath: //div[@id='navbar']/ul/li[1]/a ]
+2017-05-16 18:51:16 INFO  TC001_verifylogin_withinvalidcredentials:23 - ===================Starting the browser===========
+2017-05-16 18:51:16 INFO  Homepage:42 - clicking on signin:[[ChromeDriver: chrome on XP (8cd3244979812edcb28ac4209174e6ae)] -> xpath: //div[@id='navbar']/ul/li[1]/a ]
+2017-05-16 18:55:54 INFO  TC001_verifylogin_withinvalidcredentials:23 - ===================Starting the browser===========
+2017-05-16 18:55:54 INFO  Homepage:45 - clicking on signin:[[ChromeDriver: chrome on XP (740dab12199013b3dfc4a52798a93fa5)] -> xpath: //div[@id='navbar']/ul/li[1]/a ]
+2017-05-16 18:57:40 INFO  TC001_verifylogin_withinvalidcredentials:23 - ===================Starting the browser===========
+2017-05-16 18:57:40 INFO  Homepage:45 - clicking on signin:[[ChromeDriver: chrome on XP (d430f447561037b80f0a55dd83ac4c6a)] -> xpath: //div[@id='navbar']/ul/li[1]/a ]
+2017-05-16 19:00:40 INFO  TC001_verifylogin_withinvalidcredentials:23 - ===================Starting the browser===========
+2017-05-16 19:00:41 INFO  Homepage:45 - clicking on signin:[[ChromeDriver: chrome on XP (b7646419f28fa617f575d7c0a2da6836)] -> xpath: //div[@id='navbar']/ul/li[1]/a ]
+2017-05-16 19:03:13 INFO  TC001_verifylogin_withinvalidcredentials:23 - ===================Starting the browser===========
+2017-05-16 19:03:14 INFO  Homepage:46 - clicking on signin:[[ChromeDriver: chrome on XP (24f6e7e30aebebf62f5ae9c8d85ee612)] -> xpath: //div[@id='navbar']/ul/li[1]/a ]
+2017-05-17 12:03:08 INFO  TC001_verifylogin_withinvalidcredentials:23 - ===================Starting the browser===========
+2017-05-17 12:03:08 INFO  Homepage:45 - clicking on signin:[[ChromeDriver: chrome on XP (376dfa2334a78152d79cfc35befd76b6)] -> xpath: //a[@class='signinLink'] ]
+2017-05-17 12:09:36 INFO  Homepage:45 - clicking on signin:[[ChromeDriver: chrome on XP (d6e917900d7572edef7f4b70703d936f)] -> xpath: //a[@class='signinLink'] ]
+2017-05-17 12:11:12 INFO  Homepage:45 - clicking on signin:[[OperaDriver: chrome on XP (42f6bce609d60fe96ef8d8c61e1951ec)] -> xpath: //a[@class='signinLink'] ]
+2017-05-17 12:20:04 INFO  TC001_verifylogin_withinvalidcredentials:23 - ===================Starting the browser===========
+2017-05-17 12:20:04 INFO  Homepage:45 - clicking on signin:[[OperaDriver: chrome on XP (b0dd7f46b58c9f17d9f8a3883a1b9a5f)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-17 12:21:52 INFO  TC001_verifylogin_withinvalidcredentials:23 - ===================Starting the browser===========
+2017-05-17 12:21:52 INFO  Homepage:45 - clicking on signin:[[OperaDriver: chrome on XP (2486db6a37882899b8412f668b852875)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-17 12:22:51 INFO  TC001_verifylogin_withinvalidcredentials:23 - ===================Starting the browser===========
+2017-05-17 12:22:52 INFO  Homepage:45 - clicking on signin:[[OperaDriver: chrome on XP (8b958285eea5c7654acef5d86b8c6635)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-17 12:23:03 INFO  Homepage:56 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-17 12:25:15 INFO  TC001_verifylogin_withinvalidcredentials:23 - ===================Starting the browser===========
+2017-05-17 12:25:15 INFO  Homepage:45 - clicking on signin:[[ChromeDriver: chrome on XP (4fc03d9369b38adc26a4fb38acb4d324)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-17 12:25:26 INFO  Homepage:56 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-17 12:27:11 INFO  TC001_verifylogin_withinvalidcredentials:23 - ===================Starting the browser===========
+2017-05-17 12:27:11 INFO  Homepage:45 - clicking on signin:[[ChromeDriver: chrome on XP (1e7e8401de4b6fe662955bd73f6e6d41)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-17 12:27:22 INFO  Homepage:56 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-17 12:39:06 INFO  TC001_verifylogin_withinvalidcredentials:25 - calling verifying invalid method 
+2017-05-17 12:40:41 INFO  TC001_verifylogin_withinvalidcredentials:25 - calling verifying invalid method 
+2017-05-17 12:40:41 INFO  Homepage:46 - clicking on signin:[[ChromeDriver: chrome on XP (16038563684ff716ffe9746014dc3848)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-17 12:41:49 INFO  TC001_verifylogin_withinvalidcredentials:25 - calling verifying invalid method 
+2017-05-17 12:41:49 INFO  Homepage:46 - clicking on signin:[[ChromeDriver: chrome on XP (73d6207367a295118bd2df74763c007e)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-17 12:43:37 INFO  TC001_verifylogin_withinvalidcredentials:25 - calling verifying invalid method 
+2017-05-17 12:43:37 INFO  Homepage:46 - clicking on signin:[[ChromeDriver: chrome on XP (9191d56721bb43027d14a9bdc49f31f9)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-17 12:43:43 INFO  TC001_verifylogin_withinvalidcredentials:27 - verifying the alert message
+2017-05-17 12:43:43 INFO  Homepage:57 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-17 13:14:07 INFO  TC001_verifylogin_withinvalidcredentials:25 - calling verifying invalid method 
+2017-05-17 13:14:07 INFO  Homepage:46 - clicking on signin:[[ChromeDriver: chrome on XP (65c03ec20b8685efd9c7a790a8dac75b)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-17 13:14:13 INFO  TC001_verifylogin_withinvalidcredentials:27 - verifying the alert message
+2017-05-17 13:14:13 INFO  Homepage:55 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-17 13:15:51 INFO  TC001_verifylogin_withinvalidcredentials:25 - calling verifying invalid method 
+2017-05-17 13:15:51 INFO  Homepage:46 - clicking on signin:[[ChromeDriver: chrome on XP (11513c5f8a8c67b2d9d999876a50ea22)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-17 13:15:57 INFO  TC001_verifylogin_withinvalidcredentials:27 - verifying the alert message
+2017-05-17 13:15:57 INFO  Homepage:56 - alert text is:
+2017-05-17 13:16:01 INFO  Homepage:62 - alert text is:Please enter valid Email Address.
+2017-05-17 13:21:48 INFO  TC001_verifylogin_withinvalidcredentials:25 - calling verifying invalid method 
+2017-05-17 13:21:48 INFO  Homepage:50 - clicking on signin:[[ChromeDriver: chrome on XP (f51109e20c3b7d405ced766cbb69c509)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-17 13:21:54 INFO  TC001_verifylogin_withinvalidcredentials:27 - verifying the alert message
+2017-05-17 13:21:54 INFO  Homepage:60 - alert text is:
+2017-05-17 13:21:58 INFO  Homepage:66 - alert text is:Please enter valid Email Address.
+2017-05-17 13:25:22 INFO  TC001_verifylogin_withinvalidcredentials:25 - calling verifying invalid method 
+2017-05-17 13:25:22 INFO  Homepage:50 - clicking on signin:[[ChromeDriver: chrome on XP (2d8dd0a6f1522974c5a11abcec1a1f74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-17 13:25:28 INFO  TC001_verifylogin_withinvalidcredentials:27 - verifying the alert message
+2017-05-17 13:25:28 INFO  Homepage:60 - alert text is:
+2017-05-17 13:25:32 INFO  Homepage:66 - alert text is:Please enter valid Email Address.
+2017-05-17 19:56:43 INFO  TC001_verifylogin_withinvalidcredentials:35 - calling verifying invalid method 
+2017-05-17 19:56:43 INFO  Homepage:57 - clicking on signin:[[ChromeDriver: chrome on XP (ef1e2401a2c704cbe366814a37e5fec8)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-17 19:56:50 INFO  TC001_verifylogin_withinvalidcredentials:37 - verifying the alert message
+2017-05-17 19:56:50 INFO  Homepage:67 - alert text is:
+2017-05-17 20:05:42 INFO  TC001_verifylogin_withinvalidcredentials:23 - ===================Starting the browser===========
+2017-05-17 20:05:45 INFO  Homepage:57 - clicking on signin:[[ChromeDriver: chrome on XP (fa018d70762f435ccdf94e101ae0e473)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-17 20:07:14 INFO  TC001_verifylogin_withinvalidcredentials:23 - ===================Starting the browser===========
+2017-05-17 20:07:18 INFO  Homepage:57 - clicking on signin:[[ChromeDriver: chrome on XP (e4a8fc83d7c3d74a68501402e8f44e81)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 11:25:18 INFO  Homepage:57 - clicking on signin:[[ChromeDriver: chrome on XP (5e237a7c793908fafb61a44eaa47b30b)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 11:30:46 INFO  Homepage:57 - clicking on signin:[[ChromeDriver: chrome on XP (8d4925cd805a504e0fe12ac1f81bba49)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 12:06:31 INFO  Homepage:65 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 12:06:41 INFO  Homepage:65 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 12:10:01 INFO  Homepage:65 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 12:12:03 INFO  Homepage:65 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 12:12:13 INFO  Homepage:65 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 12:17:15 INFO  Homepage:65 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 12:17:24 INFO  Homepage:65 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 12:17:33 INFO  Homepage:65 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 12:17:42 INFO  Homepage:65 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 12:19:50 INFO  Homepage:65 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 12:22:57 INFO  Homepage:65 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 12:23:12 INFO  Homepage:65 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 12:23:27 INFO  Homepage:65 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 12:23:42 INFO  Homepage:65 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 12:36:15 INFO  Homepage:76 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 12:36:24 INFO  Homepage:76 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 12:36:33 INFO  Homepage:76 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 12:36:42 INFO  Homepage:76 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 12:41:39 INFO  Homepage:78 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 12:41:49 INFO  Homepage:78 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 12:41:58 INFO  Homepage:78 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 12:42:07 INFO  Homepage:78 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 13:02:07 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (18756929b88b9e64109b22e4eba8ff8d)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:02:16 INFO  Homepage:79 - alert text is:
+2017-05-18 13:02:16 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (18756929b88b9e64109b22e4eba8ff8d)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:02:25 INFO  Homepage:79 - alert text is:
+2017-05-18 13:02:25 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (18756929b88b9e64109b22e4eba8ff8d)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:02:34 INFO  Homepage:79 - alert text is:
+2017-05-18 13:02:34 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (18756929b88b9e64109b22e4eba8ff8d)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:02:42 INFO  Homepage:79 - alert text is:
+2017-05-18 13:02:42 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (18756929b88b9e64109b22e4eba8ff8d)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:02:51 INFO  Homepage:79 - alert text is:
+2017-05-18 13:02:51 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (18756929b88b9e64109b22e4eba8ff8d)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:02:59 INFO  Homepage:79 - alert text is:
+2017-05-18 13:02:59 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (18756929b88b9e64109b22e4eba8ff8d)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:03:07 INFO  Homepage:79 - alert text is:
+2017-05-18 13:07:49 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (e5782db5cae73161a781c4560fa8bc66)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:07:56 INFO  Homepage:79 - alert text is:
+2017-05-18 13:07:56 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (e5782db5cae73161a781c4560fa8bc66)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:08:01 INFO  Homepage:79 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 13:08:05 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (e5782db5cae73161a781c4560fa8bc66)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:08:10 INFO  Homepage:79 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 13:08:13 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (e5782db5cae73161a781c4560fa8bc66)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:08:19 INFO  Homepage:79 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 13:08:22 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (e5782db5cae73161a781c4560fa8bc66)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:08:28 INFO  Homepage:79 - alert text is:
+2017-05-18 13:08:28 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (e5782db5cae73161a781c4560fa8bc66)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:08:34 INFO  Homepage:79 - alert text is:
+2017-05-18 13:08:34 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (e5782db5cae73161a781c4560fa8bc66)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:08:39 INFO  Homepage:79 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 13:11:20 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (652e7ee85a6240f84dbb278f3e0bd68b)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:11:30 INFO  Homepage:80 - alert text is:
+2017-05-18 13:11:30 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (652e7ee85a6240f84dbb278f3e0bd68b)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:11:39 INFO  Homepage:80 - alert text is:
+2017-05-18 13:11:39 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (652e7ee85a6240f84dbb278f3e0bd68b)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:11:48 INFO  Homepage:80 - alert text is:
+2017-05-18 13:11:48 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (652e7ee85a6240f84dbb278f3e0bd68b)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:11:57 INFO  Homepage:80 - alert text is:
+2017-05-18 13:11:57 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (652e7ee85a6240f84dbb278f3e0bd68b)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:12:05 INFO  Homepage:80 - alert text is:
+2017-05-18 13:12:05 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (652e7ee85a6240f84dbb278f3e0bd68b)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:12:14 INFO  Homepage:80 - alert text is:
+2017-05-18 13:12:14 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (652e7ee85a6240f84dbb278f3e0bd68b)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:12:22 INFO  Homepage:80 - alert text is:
+2017-05-18 13:15:21 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (841f6df09964213dae74bcba73265c4c)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:15:32 INFO  Homepage:80 - alert text is:
+2017-05-18 13:15:32 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (841f6df09964213dae74bcba73265c4c)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:15:42 INFO  Homepage:80 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 13:15:42 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (841f6df09964213dae74bcba73265c4c)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:15:52 INFO  Homepage:80 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 13:15:52 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (841f6df09964213dae74bcba73265c4c)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:15:53 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (841f6df09964213dae74bcba73265c4c)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:15:53 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (841f6df09964213dae74bcba73265c4c)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:15:54 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (841f6df09964213dae74bcba73265c4c)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:20:22 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (4aa0de3bdf626ac100b2c21475b083cc)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:20:35 INFO  Homepage:81 - alert text is:
+2017-05-18 13:20:35 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (4aa0de3bdf626ac100b2c21475b083cc)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:20:48 INFO  Homepage:81 - alert text is:
+2017-05-18 13:20:48 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (4aa0de3bdf626ac100b2c21475b083cc)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:21:01 INFO  Homepage:81 - alert text is:
+2017-05-18 13:21:01 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (4aa0de3bdf626ac100b2c21475b083cc)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:21:02 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (4aa0de3bdf626ac100b2c21475b083cc)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:21:02 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (4aa0de3bdf626ac100b2c21475b083cc)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:21:03 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (4aa0de3bdf626ac100b2c21475b083cc)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:24:31 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (ebd33f5bf74f461ecca2942166a70247)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:24:41 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (ebd33f5bf74f461ecca2942166a70247)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:24:51 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (ebd33f5bf74f461ecca2942166a70247)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:25:01 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (ebd33f5bf74f461ecca2942166a70247)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:25:02 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (ebd33f5bf74f461ecca2942166a70247)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:25:02 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (ebd33f5bf74f461ecca2942166a70247)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:25:03 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (ebd33f5bf74f461ecca2942166a70247)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:29:43 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (0f27f72ecb15b2045b7bd05b10ddc3e6)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:29:47 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (0f27f72ecb15b2045b7bd05b10ddc3e6)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:29:47 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (0f27f72ecb15b2045b7bd05b10ddc3e6)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:29:48 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (0f27f72ecb15b2045b7bd05b10ddc3e6)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:29:49 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (0f27f72ecb15b2045b7bd05b10ddc3e6)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 13:29:49 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (0f27f72ecb15b2045b7bd05b10ddc3e6)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 15:20:27 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (01b6da8976b31db04309eaad5187380b)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 15:20:30 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (01b6da8976b31db04309eaad5187380b)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 15:20:30 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (01b6da8976b31db04309eaad5187380b)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 15:23:35 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (1ab6f8bb896e1adccde3d01ce8305eb7)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 15:23:38 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (1ab6f8bb896e1adccde3d01ce8305eb7)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 15:26:46 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (b1c608da4ce1211c101c8f1805374709)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 15:28:54 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (6b73121663389e34eec954c650a2980e)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 15:34:33 INFO  Homepage:69 - clicking on signin:[[OperaDriver: chrome on XP (615046ca7a0cf4053026e2d93899209c)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-18 15:43:29 INFO  Homepage:69 - clicking on email:[[OperaDriver: chrome on XP (437b5d5192b9b9bc86dbd98c1ea294b8)] -> xpath: //input[@id='home_username']]
+2017-05-18 15:43:30 INFO  Homepage:71 - clicking on passwored:[[OperaDriver: chrome on XP (437b5d5192b9b9bc86dbd98c1ea294b8)] -> xpath: //input[@id='home_password']]
+2017-05-18 15:43:30 INFO  Homepage:73 - clicking on signinbutton:[[OperaDriver: chrome on XP (437b5d5192b9b9bc86dbd98c1ea294b8)] -> xpath: //input[@value='Sign In']]
+2017-05-18 15:43:40 INFO  Homepage:84 - alert text is:
+2017-05-18 15:43:45 INFO  Homepage:69 - clicking on email:[[OperaDriver: chrome on XP (437b5d5192b9b9bc86dbd98c1ea294b8)] -> xpath: //input[@id='home_username']]
+2017-05-18 15:43:46 INFO  Homepage:71 - clicking on passwored:[[OperaDriver: chrome on XP (437b5d5192b9b9bc86dbd98c1ea294b8)] -> xpath: //input[@id='home_password']]
+2017-05-18 15:43:47 INFO  Homepage:73 - clicking on signinbutton:[[OperaDriver: chrome on XP (437b5d5192b9b9bc86dbd98c1ea294b8)] -> xpath: //input[@value='Sign In']]
+2017-05-18 15:43:56 INFO  Homepage:84 - alert text is:
+2017-05-18 15:44:03 INFO  Homepage:69 - clicking on email:[[OperaDriver: chrome on XP (437b5d5192b9b9bc86dbd98c1ea294b8)] -> xpath: //input[@id='home_username']]
+2017-05-18 15:44:03 INFO  Homepage:71 - clicking on passwored:[[OperaDriver: chrome on XP (437b5d5192b9b9bc86dbd98c1ea294b8)] -> xpath: //input[@id='home_password']]
+2017-05-18 15:44:04 INFO  Homepage:73 - clicking on signinbutton:[[OperaDriver: chrome on XP (437b5d5192b9b9bc86dbd98c1ea294b8)] -> xpath: //input[@value='Sign In']]
+2017-05-18 15:44:13 INFO  Homepage:84 - alert text is:
+2017-05-18 15:47:54 INFO  Homepage:69 - clicking on email:[[OperaDriver: chrome on XP (9e14e0f5d03c4c75f564cd17e69cc9df)] -> xpath: //input[@id='home_username']]
+2017-05-18 15:47:55 INFO  Homepage:71 - clicking on passwored:[[OperaDriver: chrome on XP (9e14e0f5d03c4c75f564cd17e69cc9df)] -> xpath: //input[@id='home_password']]
+2017-05-18 15:47:55 INFO  Homepage:73 - clicking on signinbutton:[[OperaDriver: chrome on XP (9e14e0f5d03c4c75f564cd17e69cc9df)] -> xpath: //input[@value='Sign In']]
+2017-05-18 15:48:00 INFO  Homepage:77 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 15:48:05 INFO  Homepage:69 - clicking on email:[[OperaDriver: chrome on XP (9e14e0f5d03c4c75f564cd17e69cc9df)] -> xpath: //input[@id='home_username']]
+2017-05-18 15:48:06 INFO  Homepage:71 - clicking on passwored:[[OperaDriver: chrome on XP (9e14e0f5d03c4c75f564cd17e69cc9df)] -> xpath: //input[@id='home_password']]
+2017-05-18 15:48:07 INFO  Homepage:73 - clicking on signinbutton:[[OperaDriver: chrome on XP (9e14e0f5d03c4c75f564cd17e69cc9df)] -> xpath: //input[@value='Sign In']]
+2017-05-18 15:48:12 INFO  Homepage:77 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 15:48:17 INFO  Homepage:69 - clicking on email:[[OperaDriver: chrome on XP (9e14e0f5d03c4c75f564cd17e69cc9df)] -> xpath: //input[@id='home_username']]
+2017-05-18 15:48:19 INFO  Homepage:71 - clicking on passwored:[[OperaDriver: chrome on XP (9e14e0f5d03c4c75f564cd17e69cc9df)] -> xpath: //input[@id='home_password']]
+2017-05-18 15:48:19 INFO  Homepage:73 - clicking on signinbutton:[[OperaDriver: chrome on XP (9e14e0f5d03c4c75f564cd17e69cc9df)] -> xpath: //input[@value='Sign In']]
+2017-05-18 15:48:25 INFO  Homepage:77 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 15:56:23 INFO  Homepage:69 - clicking on email:[[OperaDriver: chrome on XP (b6b3645d6a3d7b105eb5f72c65fe874e)] -> xpath: //input[@id='home_username']]
+2017-05-18 15:56:24 INFO  Homepage:71 - clicking on passwored:[[OperaDriver: chrome on XP (b6b3645d6a3d7b105eb5f72c65fe874e)] -> xpath: //input[@id='home_password']]
+2017-05-18 15:56:24 INFO  Homepage:73 - clicking on signinbutton:[[OperaDriver: chrome on XP (b6b3645d6a3d7b105eb5f72c65fe874e)] -> xpath: //input[@value='Sign In']]
+2017-05-18 15:56:29 INFO  Homepage:77 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 15:56:34 INFO  Homepage:69 - clicking on email:[[OperaDriver: chrome on XP (b6b3645d6a3d7b105eb5f72c65fe874e)] -> xpath: //input[@id='home_username']]
+2017-05-18 15:56:35 INFO  Homepage:71 - clicking on passwored:[[OperaDriver: chrome on XP (b6b3645d6a3d7b105eb5f72c65fe874e)] -> xpath: //input[@id='home_password']]
+2017-05-18 15:56:35 INFO  Homepage:73 - clicking on signinbutton:[[OperaDriver: chrome on XP (b6b3645d6a3d7b105eb5f72c65fe874e)] -> xpath: //input[@value='Sign In']]
+2017-05-18 15:56:40 INFO  Homepage:77 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 15:56:45 INFO  Homepage:69 - clicking on email:[[OperaDriver: chrome on XP (b6b3645d6a3d7b105eb5f72c65fe874e)] -> xpath: //input[@id='home_username']]
+2017-05-18 15:56:46 INFO  Homepage:71 - clicking on passwored:[[OperaDriver: chrome on XP (b6b3645d6a3d7b105eb5f72c65fe874e)] -> xpath: //input[@id='home_password']]
+2017-05-18 15:56:46 INFO  Homepage:73 - clicking on signinbutton:[[OperaDriver: chrome on XP (b6b3645d6a3d7b105eb5f72c65fe874e)] -> xpath: //input[@value='Sign In']]
+2017-05-18 15:56:51 INFO  Homepage:77 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 15:56:56 INFO  Homepage:69 - clicking on email:[[OperaDriver: chrome on XP (b6b3645d6a3d7b105eb5f72c65fe874e)] -> xpath: //input[@id='home_username']]
+2017-05-18 15:56:56 INFO  Homepage:71 - clicking on passwored:[[OperaDriver: chrome on XP (b6b3645d6a3d7b105eb5f72c65fe874e)] -> xpath: //input[@id='home_password']]
+2017-05-18 15:56:57 INFO  Homepage:69 - clicking on email:[[OperaDriver: chrome on XP (b6b3645d6a3d7b105eb5f72c65fe874e)] -> xpath: //input[@id='home_username']]
+2017-05-18 16:15:24 INFO  Homepage:69 - clicking on email:[[OperaDriver: chrome on XP (261a21fa1e96c5825a24f170817e0950)] -> xpath: //input[@id='home_username']]
+2017-05-18 16:15:26 INFO  Homepage:71 - clicking on passwored:[[OperaDriver: chrome on XP (261a21fa1e96c5825a24f170817e0950)] -> xpath: //input[@id='home_password']]
+2017-05-18 16:15:26 INFO  Homepage:73 - clicking on signinbutton:[[OperaDriver: chrome on XP (261a21fa1e96c5825a24f170817e0950)] -> xpath: //input[@value='Sign In']]
+2017-05-18 16:15:31 INFO  Homepage:77 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 16:15:36 INFO  Homepage:69 - clicking on email:[[OperaDriver: chrome on XP (261a21fa1e96c5825a24f170817e0950)] -> xpath: //input[@id='home_username']]
+2017-05-18 16:15:38 INFO  Homepage:71 - clicking on passwored:[[OperaDriver: chrome on XP (261a21fa1e96c5825a24f170817e0950)] -> xpath: //input[@id='home_password']]
+2017-05-18 16:15:38 INFO  Homepage:73 - clicking on signinbutton:[[OperaDriver: chrome on XP (261a21fa1e96c5825a24f170817e0950)] -> xpath: //input[@value='Sign In']]
+2017-05-18 16:15:43 INFO  Homepage:77 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 16:15:48 INFO  Homepage:69 - clicking on email:[[OperaDriver: chrome on XP (261a21fa1e96c5825a24f170817e0950)] -> xpath: //input[@id='home_username']]
+2017-05-18 16:15:49 INFO  Homepage:71 - clicking on passwored:[[OperaDriver: chrome on XP (261a21fa1e96c5825a24f170817e0950)] -> xpath: //input[@id='home_password']]
+2017-05-18 16:15:49 INFO  Homepage:73 - clicking on signinbutton:[[OperaDriver: chrome on XP (261a21fa1e96c5825a24f170817e0950)] -> xpath: //input[@value='Sign In']]
+2017-05-18 16:15:54 INFO  Homepage:77 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 16:15:59 INFO  Homepage:69 - clicking on email:[[OperaDriver: chrome on XP (261a21fa1e96c5825a24f170817e0950)] -> xpath: //input[@id='home_username']]
+2017-05-18 16:15:59 INFO  Homepage:71 - clicking on passwored:[[OperaDriver: chrome on XP (261a21fa1e96c5825a24f170817e0950)] -> xpath: //input[@id='home_password']]
+2017-05-18 16:27:47 INFO  Homepage:90 - clicking on passwored:[[OperaDriver: chrome on XP (dd524f73fbf2b3305681b8be6e6c2f46)] -> xpath: //input[@id='home_password']]
+2017-05-18 16:27:48 INFO  Homepage:92 - clicking on signinbutton:[[OperaDriver: chrome on XP (dd524f73fbf2b3305681b8be6e6c2f46)] -> xpath: //input[@value='Sign In']]
+2017-05-18 16:32:25 INFO  Homepage:90 - clicking on passwored:[[OperaDriver: chrome on XP (86a9aa31d8b73e83e66f57d7f1cdb48e)] -> xpath: //input[@id='home_password']]
+2017-05-18 16:32:25 INFO  Homepage:92 - clicking on signinbutton:[[OperaDriver: chrome on XP (86a9aa31d8b73e83e66f57d7f1cdb48e)] -> xpath: //input[@value='Sign In']]
+2017-05-18 16:34:32 INFO  Homepage:90 - clicking on passwored:[[OperaDriver: chrome on XP (da8af92eeee39a436e45d8580acc7b37)] -> xpath: //input[@id='home_password']]
+2017-05-18 16:34:33 INFO  Homepage:92 - clicking on signinbutton:[[OperaDriver: chrome on XP (da8af92eeee39a436e45d8580acc7b37)] -> xpath: //input[@value='Sign In']]
+2017-05-18 16:54:07 INFO  Homepage:74 - clicking on email:[[OperaDriver: chrome on XP (70cd97e2b4bd5048420a52295ae2e44c)] -> xpath: //input[@id='home_username']]
+2017-05-18 16:54:08 INFO  Homepage:76 - clicking on passwored:[[OperaDriver: chrome on XP (70cd97e2b4bd5048420a52295ae2e44c)] -> xpath: //input[@id='home_password']]
+2017-05-18 16:54:08 INFO  Homepage:78 - clicking on signinbutton:[[OperaDriver: chrome on XP (70cd97e2b4bd5048420a52295ae2e44c)] -> xpath: //input[@value='Sign In']]
+2017-05-18 16:54:13 INFO  Homepage:82 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 16:54:18 INFO  Homepage:74 - clicking on email:[[OperaDriver: chrome on XP (70cd97e2b4bd5048420a52295ae2e44c)] -> xpath: //input[@id='home_username']]
+2017-05-18 16:54:19 INFO  Homepage:76 - clicking on passwored:[[OperaDriver: chrome on XP (70cd97e2b4bd5048420a52295ae2e44c)] -> xpath: //input[@id='home_password']]
+2017-05-18 16:54:20 INFO  Homepage:78 - clicking on signinbutton:[[OperaDriver: chrome on XP (70cd97e2b4bd5048420a52295ae2e44c)] -> xpath: //input[@value='Sign In']]
+2017-05-18 16:54:25 INFO  Homepage:82 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 16:54:29 INFO  Homepage:74 - clicking on email:[[OperaDriver: chrome on XP (70cd97e2b4bd5048420a52295ae2e44c)] -> xpath: //input[@id='home_username']]
+2017-05-18 16:54:31 INFO  Homepage:76 - clicking on passwored:[[OperaDriver: chrome on XP (70cd97e2b4bd5048420a52295ae2e44c)] -> xpath: //input[@id='home_password']]
+2017-05-18 16:54:31 INFO  Homepage:78 - clicking on signinbutton:[[OperaDriver: chrome on XP (70cd97e2b4bd5048420a52295ae2e44c)] -> xpath: //input[@value='Sign In']]
+2017-05-18 16:54:36 INFO  Homepage:82 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 16:54:41 INFO  Homepage:74 - clicking on email:[[OperaDriver: chrome on XP (70cd97e2b4bd5048420a52295ae2e44c)] -> xpath: //input[@id='home_username']]
+2017-05-18 16:54:41 INFO  Homepage:76 - clicking on passwored:[[OperaDriver: chrome on XP (70cd97e2b4bd5048420a52295ae2e44c)] -> xpath: //input[@id='home_password']]
+2017-05-18 17:05:29 INFO  Homepage:74 - clicking on email:[[OperaDriver: chrome on XP (74f864941035aec85321da68641034fc)] -> xpath: //input[@id='home_username']]
+2017-05-18 17:05:30 INFO  Homepage:76 - clicking on passwored:[[OperaDriver: chrome on XP (74f864941035aec85321da68641034fc)] -> xpath: //input[@id='home_password']]
+2017-05-18 17:05:30 INFO  Homepage:78 - clicking on signinbutton:[[OperaDriver: chrome on XP (74f864941035aec85321da68641034fc)] -> xpath: //input[@value='Sign In']]
+2017-05-18 17:05:36 INFO  Homepage:82 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 17:05:41 INFO  Homepage:74 - clicking on email:[[OperaDriver: chrome on XP (74f864941035aec85321da68641034fc)] -> xpath: //input[@id='home_username']]
+2017-05-18 17:05:42 INFO  Homepage:76 - clicking on passwored:[[OperaDriver: chrome on XP (74f864941035aec85321da68641034fc)] -> xpath: //input[@id='home_password']]
+2017-05-18 17:05:42 INFO  Homepage:78 - clicking on signinbutton:[[OperaDriver: chrome on XP (74f864941035aec85321da68641034fc)] -> xpath: //input[@value='Sign In']]
+2017-05-18 17:05:47 INFO  Homepage:82 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 17:05:52 INFO  Homepage:74 - clicking on email:[[OperaDriver: chrome on XP (74f864941035aec85321da68641034fc)] -> xpath: //input[@id='home_username']]
+2017-05-18 17:05:53 INFO  Homepage:76 - clicking on passwored:[[OperaDriver: chrome on XP (74f864941035aec85321da68641034fc)] -> xpath: //input[@id='home_password']]
+2017-05-18 17:05:53 INFO  Homepage:78 - clicking on signinbutton:[[OperaDriver: chrome on XP (74f864941035aec85321da68641034fc)] -> xpath: //input[@value='Sign In']]
+2017-05-18 17:05:58 INFO  Homepage:82 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-18 17:06:03 INFO  Homepage:74 - clicking on email:[[OperaDriver: chrome on XP (74f864941035aec85321da68641034fc)] -> xpath: //input[@id='home_username']]
+2017-05-18 17:06:03 INFO  Homepage:76 - clicking on passwored:[[OperaDriver: chrome on XP (74f864941035aec85321da68641034fc)] -> xpath: //input[@id='home_password']]
+2017-05-18 17:08:06 INFO  Homepage:92 - clicking on passwored:[[OperaDriver: chrome on XP (9b3dd3fd5aa561a7fd68de3119746eed)] -> xpath: //input[@id='home_password']]
+2017-05-18 17:08:07 INFO  Homepage:94 - clicking on signinbutton:[[OperaDriver: chrome on XP (9b3dd3fd5aa561a7fd68de3119746eed)] -> xpath: //input[@value='Sign In']]
+2017-05-18 18:35:18 INFO  Homepage:93 - clicking on passwored:[[OperaDriver: chrome on XP (c074b8dde0deac86b1e80411be85d241)] -> xpath: //input[@id='home_password']]
+2017-05-18 18:35:19 INFO  Homepage:95 - clicking on signinbutton:[[OperaDriver: chrome on XP (c074b8dde0deac86b1e80411be85d241)] -> xpath: //input[@value='Sign In']]
+2017-05-18 18:37:48 INFO  Homepage:93 - clicking on passwored:[[OperaDriver: chrome on XP (c762525750e588b10fd7849fb408df03)] -> xpath: //input[@id='home_password']]
+2017-05-18 18:37:49 INFO  Homepage:95 - clicking on signinbutton:[[OperaDriver: chrome on XP (c762525750e588b10fd7849fb408df03)] -> xpath: //input[@value='Sign In']]
+2017-05-18 18:47:47 INFO  Homepage:99 - clicking on passwored:[[OperaDriver: chrome on XP (d7ee01fd8b0b8a1ce94955434f959b87)] -> xpath: //input[@id='home_password']]
+2017-05-18 18:47:48 INFO  Homepage:101 - clicking on signinbutton:[[OperaDriver: chrome on XP (d7ee01fd8b0b8a1ce94955434f959b87)] -> xpath: //input[@value='Sign In']]
+2017-05-18 18:54:23 INFO  Homepage:101 - clicking on passwored:[[OperaDriver: chrome on XP (b599ad68257b11769b9f0bc75660a5bc)] -> xpath: //input[@id='home_password']]
+2017-05-18 18:54:23 INFO  Homepage:103 - clicking on signinbutton:[[OperaDriver: chrome on XP (b599ad68257b11769b9f0bc75660a5bc)] -> xpath: //input[@value='Sign In']]
+2017-05-19 11:09:20 INFO  Homepage:83 - clicking on email:[[OperaDriver: chrome on XP (6434e5049be331dfe570c54833e008c4)] -> xpath: //input[@id='home_username']]
+2017-05-19 11:09:21 INFO  Homepage:85 - clicking on passwored:[[OperaDriver: chrome on XP (6434e5049be331dfe570c54833e008c4)] -> xpath: //input[@id='home_password']]
+2017-05-19 11:09:21 INFO  Homepage:87 - clicking on signinbutton:[[OperaDriver: chrome on XP (6434e5049be331dfe570c54833e008c4)] -> xpath: //input[@value='Sign In']]
+2017-05-19 11:09:26 INFO  Homepage:91 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-19 11:09:27 INFO  Homepage:83 - clicking on email:[[OperaDriver: chrome on XP (6434e5049be331dfe570c54833e008c4)] -> xpath: //input[@id='home_username']]
+2017-05-19 11:09:28 INFO  Homepage:85 - clicking on passwored:[[OperaDriver: chrome on XP (6434e5049be331dfe570c54833e008c4)] -> xpath: //input[@id='home_password']]
+2017-05-19 11:09:28 INFO  Homepage:87 - clicking on signinbutton:[[OperaDriver: chrome on XP (6434e5049be331dfe570c54833e008c4)] -> xpath: //input[@value='Sign In']]
+2017-05-19 11:09:33 INFO  Homepage:91 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-19 11:09:34 INFO  Homepage:83 - clicking on email:[[OperaDriver: chrome on XP (6434e5049be331dfe570c54833e008c4)] -> xpath: //input[@id='home_username']]
+2017-05-19 11:09:35 INFO  Homepage:85 - clicking on passwored:[[OperaDriver: chrome on XP (6434e5049be331dfe570c54833e008c4)] -> xpath: //input[@id='home_password']]
+2017-05-19 11:09:35 INFO  Homepage:87 - clicking on signinbutton:[[OperaDriver: chrome on XP (6434e5049be331dfe570c54833e008c4)] -> xpath: //input[@value='Sign In']]
+2017-05-19 11:09:40 INFO  Homepage:91 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-19 11:09:41 INFO  Homepage:83 - clicking on email:[[OperaDriver: chrome on XP (6434e5049be331dfe570c54833e008c4)] -> xpath: //input[@id='home_username']]
+2017-05-19 11:09:41 INFO  Homepage:85 - clicking on passwored:[[OperaDriver: chrome on XP (6434e5049be331dfe570c54833e008c4)] -> xpath: //input[@id='home_password']]
+2017-05-19 11:30:02 INFO  Homepage:83 - clicking on email:[[OperaDriver: chrome on XP (96b178377178e93a3bbdab2bdaf772d9)] -> xpath: //input[@id='home_username']]
+2017-05-19 11:30:03 INFO  Homepage:85 - clicking on passwored:[[OperaDriver: chrome on XP (96b178377178e93a3bbdab2bdaf772d9)] -> xpath: //input[@id='home_password']]
+2017-05-19 11:30:04 INFO  Homepage:87 - clicking on signinbutton:[[OperaDriver: chrome on XP (96b178377178e93a3bbdab2bdaf772d9)] -> xpath: //input[@value='Sign In']]
+2017-05-19 11:30:09 INFO  Homepage:91 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-19 11:30:09 INFO  Homepage:83 - clicking on email:[[OperaDriver: chrome on XP (96b178377178e93a3bbdab2bdaf772d9)] -> xpath: //input[@id='home_username']]
+2017-05-19 11:30:10 INFO  Homepage:85 - clicking on passwored:[[OperaDriver: chrome on XP (96b178377178e93a3bbdab2bdaf772d9)] -> xpath: //input[@id='home_password']]
+2017-05-19 11:30:10 INFO  Homepage:87 - clicking on signinbutton:[[OperaDriver: chrome on XP (96b178377178e93a3bbdab2bdaf772d9)] -> xpath: //input[@value='Sign In']]
+2017-05-19 11:30:15 INFO  Homepage:91 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-19 11:30:16 INFO  Homepage:83 - clicking on email:[[OperaDriver: chrome on XP (96b178377178e93a3bbdab2bdaf772d9)] -> xpath: //input[@id='home_username']]
+2017-05-19 11:30:16 INFO  Homepage:85 - clicking on passwored:[[OperaDriver: chrome on XP (96b178377178e93a3bbdab2bdaf772d9)] -> xpath: //input[@id='home_password']]
+2017-05-19 11:30:17 INFO  Homepage:87 - clicking on signinbutton:[[OperaDriver: chrome on XP (96b178377178e93a3bbdab2bdaf772d9)] -> xpath: //input[@value='Sign In']]
+2017-05-19 11:30:22 INFO  Homepage:91 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-19 11:30:22 INFO  Homepage:83 - clicking on email:[[OperaDriver: chrome on XP (96b178377178e93a3bbdab2bdaf772d9)] -> xpath: //input[@id='home_username']]
+2017-05-19 11:30:23 INFO  Homepage:85 - clicking on passwored:[[OperaDriver: chrome on XP (96b178377178e93a3bbdab2bdaf772d9)] -> xpath: //input[@id='home_password']]
+2017-05-19 11:32:49 INFO  Homepage:83 - clicking on email:[[OperaDriver: chrome on XP (acd59e42e73ccca08ecb4f57dc6bf098)] -> xpath: //input[@id='home_username']]
+2017-05-19 11:32:49 INFO  Homepage:85 - clicking on passwored:[[OperaDriver: chrome on XP (acd59e42e73ccca08ecb4f57dc6bf098)] -> xpath: //input[@id='home_password']]
+2017-05-19 11:32:50 INFO  Homepage:87 - clicking on signinbutton:[[OperaDriver: chrome on XP (acd59e42e73ccca08ecb4f57dc6bf098)] -> xpath: //input[@value='Sign In']]
+2017-05-19 11:32:55 INFO  Homepage:91 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-19 11:32:56 INFO  Homepage:83 - clicking on email:[[OperaDriver: chrome on XP (acd59e42e73ccca08ecb4f57dc6bf098)] -> xpath: //input[@id='home_username']]
+2017-05-19 11:32:56 INFO  Homepage:85 - clicking on passwored:[[OperaDriver: chrome on XP (acd59e42e73ccca08ecb4f57dc6bf098)] -> xpath: //input[@id='home_password']]
+2017-05-19 11:32:57 INFO  Homepage:87 - clicking on signinbutton:[[OperaDriver: chrome on XP (acd59e42e73ccca08ecb4f57dc6bf098)] -> xpath: //input[@value='Sign In']]
+2017-05-19 11:33:02 INFO  Homepage:91 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-19 11:33:02 INFO  Homepage:83 - clicking on email:[[OperaDriver: chrome on XP (acd59e42e73ccca08ecb4f57dc6bf098)] -> xpath: //input[@id='home_username']]
+2017-05-19 11:33:03 INFO  Homepage:85 - clicking on passwored:[[OperaDriver: chrome on XP (acd59e42e73ccca08ecb4f57dc6bf098)] -> xpath: //input[@id='home_password']]
+2017-05-19 11:33:04 INFO  Homepage:87 - clicking on signinbutton:[[OperaDriver: chrome on XP (acd59e42e73ccca08ecb4f57dc6bf098)] -> xpath: //input[@value='Sign In']]
+2017-05-19 11:33:08 INFO  Homepage:91 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-19 11:33:09 INFO  Homepage:83 - clicking on email:[[OperaDriver: chrome on XP (acd59e42e73ccca08ecb4f57dc6bf098)] -> xpath: //input[@id='home_username']]
+2017-05-19 11:33:09 INFO  Homepage:85 - clicking on passwored:[[OperaDriver: chrome on XP (acd59e42e73ccca08ecb4f57dc6bf098)] -> xpath: //input[@id='home_password']]
+2017-05-19 11:33:11 INFO  Homepage:101 - clicking on passwored:[[OperaDriver: chrome on XP (acd59e42e73ccca08ecb4f57dc6bf098)] -> xpath: //input[@id='home_password']]
+2017-05-19 11:46:14 INFO  Homepage:101 - clicking on passwored:[[OperaDriver: chrome on XP (e3fe4242a0ae5ccddb0326b9c5bda807)] -> xpath: //input[@id='home_password']]
+2017-05-19 11:46:14 INFO  Homepage:103 - clicking on signinbutton:[[OperaDriver: chrome on XP (e3fe4242a0ae5ccddb0326b9c5bda807)] -> xpath: //input[@value='Sign In']]
+2017-05-19 12:03:23 INFO  Homepage:83 - clicking on email:[[OperaDriver: chrome on XP (4994404e2a710535950df7a6fcb051dd)] -> xpath: //input[@id='home_username']]
+2017-05-19 12:03:24 INFO  Homepage:85 - clicking on passwored:[[OperaDriver: chrome on XP (4994404e2a710535950df7a6fcb051dd)] -> xpath: //input[@id='home_password']]
+2017-05-19 12:03:24 INFO  Homepage:87 - clicking on signinbutton:[[OperaDriver: chrome on XP (4994404e2a710535950df7a6fcb051dd)] -> xpath: //input[@value='Sign In']]
+2017-05-19 12:03:29 INFO  Homepage:91 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-19 12:03:34 INFO  Homepage:83 - clicking on email:[[OperaDriver: chrome on XP (4994404e2a710535950df7a6fcb051dd)] -> xpath: //input[@id='home_username']]
+2017-05-19 12:03:35 INFO  Homepage:85 - clicking on passwored:[[OperaDriver: chrome on XP (4994404e2a710535950df7a6fcb051dd)] -> xpath: //input[@id='home_password']]
+2017-05-19 12:03:35 INFO  Homepage:87 - clicking on signinbutton:[[OperaDriver: chrome on XP (4994404e2a710535950df7a6fcb051dd)] -> xpath: //input[@value='Sign In']]
+2017-05-19 12:03:40 INFO  Homepage:91 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-19 12:03:45 INFO  Homepage:83 - clicking on email:[[OperaDriver: chrome on XP (4994404e2a710535950df7a6fcb051dd)] -> xpath: //input[@id='home_username']]
+2017-05-19 12:03:45 INFO  Homepage:85 - clicking on passwored:[[OperaDriver: chrome on XP (4994404e2a710535950df7a6fcb051dd)] -> xpath: //input[@id='home_password']]
+2017-05-19 12:03:46 INFO  Homepage:87 - clicking on signinbutton:[[OperaDriver: chrome on XP (4994404e2a710535950df7a6fcb051dd)] -> xpath: //input[@value='Sign In']]
+2017-05-19 12:03:50 INFO  Homepage:91 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-19 12:46:02 INFO  Homepage:101 - clicking on passwored:[[OperaDriver: chrome on XP (82771e1533444b40d4fa60012656717d)] -> xpath: //input[@id='home_password']]
+2017-05-19 12:46:03 INFO  Homepage:103 - clicking on signinbutton:[[OperaDriver: chrome on XP (82771e1533444b40d4fa60012656717d)] -> xpath: //input[@value='Sign In']]
+2017-05-19 12:54:21 INFO  Homepage:83 - clicking on email:[[OperaDriver: chrome on XP (728757e5868b0e0b6bd8033d280282d7)] -> xpath: //input[@id='home_username']]
+2017-05-19 12:54:22 INFO  Homepage:85 - clicking on passwored:[[OperaDriver: chrome on XP (728757e5868b0e0b6bd8033d280282d7)] -> xpath: //input[@id='home_password']]
+2017-05-19 12:54:23 INFO  Homepage:87 - clicking on signinbutton:[[OperaDriver: chrome on XP (728757e5868b0e0b6bd8033d280282d7)] -> xpath: //input[@value='Sign In']]
+2017-05-19 12:54:28 INFO  Homepage:91 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-19 12:54:34 INFO  Homepage:83 - clicking on email:[[OperaDriver: chrome on XP (728757e5868b0e0b6bd8033d280282d7)] -> xpath: //input[@id='home_username']]
+2017-05-19 12:54:35 INFO  Homepage:85 - clicking on passwored:[[OperaDriver: chrome on XP (728757e5868b0e0b6bd8033d280282d7)] -> xpath: //input[@id='home_password']]
+2017-05-19 12:54:36 INFO  Homepage:87 - clicking on signinbutton:[[OperaDriver: chrome on XP (728757e5868b0e0b6bd8033d280282d7)] -> xpath: //input[@value='Sign In']]
+2017-05-19 12:54:41 INFO  Homepage:91 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-19 12:54:46 INFO  Homepage:83 - clicking on email:[[OperaDriver: chrome on XP (728757e5868b0e0b6bd8033d280282d7)] -> xpath: //input[@id='home_username']]
+2017-05-19 12:54:47 INFO  Homepage:85 - clicking on passwored:[[OperaDriver: chrome on XP (728757e5868b0e0b6bd8033d280282d7)] -> xpath: //input[@id='home_password']]
+2017-05-19 12:54:47 INFO  Homepage:87 - clicking on signinbutton:[[OperaDriver: chrome on XP (728757e5868b0e0b6bd8033d280282d7)] -> xpath: //input[@value='Sign In']]
+2017-05-19 12:54:52 INFO  Homepage:91 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-19 16:52:13 INFO  Homepage:101 - clicking on passwored:[[OperaDriver: chrome on XP (bd5f78e709e95df7b06e7a40e1d18cbc)] -> xpath: //input[@id='home_password']]
+2017-05-19 16:52:13 INFO  Homepage:103 - clicking on signinbutton:[[OperaDriver: chrome on XP (bd5f78e709e95df7b06e7a40e1d18cbc)] -> xpath: //input[@value='Sign In']]
+2017-05-19 17:00:52 INFO  Homepage:101 - clicking on passwored:[[OperaDriver: chrome on XP (017e714ad2b24d02d40b4489ab5f9ef3)] -> xpath: //input[@id='home_password']]
+2017-05-19 17:00:52 INFO  Homepage:103 - clicking on signinbutton:[[OperaDriver: chrome on XP (017e714ad2b24d02d40b4489ab5f9ef3)] -> xpath: //input[@value='Sign In']]
+2017-05-19 17:55:00 INFO  Homepage:101 - clicking on passwored:[[OperaDriver: chrome on XP (cc0e2a41a95f3200122a997b30978d5d)] -> xpath: //input[@id='home_password']]
+2017-05-19 17:55:01 INFO  Homepage:103 - clicking on signinbutton:[[OperaDriver: chrome on XP (cc0e2a41a95f3200122a997b30978d5d)] -> xpath: //input[@value='Sign In']]
+2017-05-19 17:57:01 INFO  Homepage:83 - clicking on email:[[OperaDriver: chrome on XP (a652ba4409ee611a6ccc7db9e771d041)] -> xpath: //input[@id='home_username']]
+2017-05-19 17:57:02 INFO  Homepage:85 - clicking on passwored:[[OperaDriver: chrome on XP (a652ba4409ee611a6ccc7db9e771d041)] -> xpath: //input[@id='home_password']]
+2017-05-19 17:57:02 INFO  Homepage:87 - clicking on signinbutton:[[OperaDriver: chrome on XP (a652ba4409ee611a6ccc7db9e771d041)] -> xpath: //input[@value='Sign In']]
+2017-05-19 17:57:07 INFO  Homepage:91 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-19 17:57:13 INFO  Homepage:83 - clicking on email:[[OperaDriver: chrome on XP (a652ba4409ee611a6ccc7db9e771d041)] -> xpath: //input[@id='home_username']]
+2017-05-19 17:57:14 INFO  Homepage:85 - clicking on passwored:[[OperaDriver: chrome on XP (a652ba4409ee611a6ccc7db9e771d041)] -> xpath: //input[@id='home_password']]
+2017-05-19 17:57:15 INFO  Homepage:87 - clicking on signinbutton:[[OperaDriver: chrome on XP (a652ba4409ee611a6ccc7db9e771d041)] -> xpath: //input[@value='Sign In']]
+2017-05-19 17:57:19 INFO  Homepage:91 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-19 17:57:25 INFO  Homepage:83 - clicking on email:[[OperaDriver: chrome on XP (a652ba4409ee611a6ccc7db9e771d041)] -> xpath: //input[@id='home_username']]
+2017-05-19 17:57:26 INFO  Homepage:85 - clicking on passwored:[[OperaDriver: chrome on XP (a652ba4409ee611a6ccc7db9e771d041)] -> xpath: //input[@id='home_password']]
+2017-05-19 17:57:26 INFO  Homepage:87 - clicking on signinbutton:[[OperaDriver: chrome on XP (a652ba4409ee611a6ccc7db9e771d041)] -> xpath: //input[@value='Sign In']]
+2017-05-19 17:57:31 INFO  Homepage:91 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-19 18:58:34 INFO  Homepage:106 - clicking on passwored:[[OperaDriver: chrome on XP (40fd43360d3508a65ce5209b1953f56a)] -> xpath: //input[@id='home_password']]
+2017-05-19 18:58:35 INFO  Homepage:108 - clicking on signinbutton:[[OperaDriver: chrome on XP (40fd43360d3508a65ce5209b1953f56a)] -> xpath: //input[@value='Sign In']]
+2017-05-19 19:05:35 INFO  Homepage:106 - clicking on passwored:[[OperaDriver: chrome on XP (cf20903dab12d706e352ffa65e9b4f24)] -> xpath: //input[@id='home_password']]
+2017-05-19 19:05:35 INFO  Homepage:108 - clicking on signinbutton:[[OperaDriver: chrome on XP (cf20903dab12d706e352ffa65e9b4f24)] -> xpath: //input[@value='Sign In']]
+2017-05-19 19:07:18 INFO  Homepage:107 - clicking on passwored:[[OperaDriver: chrome on XP (8f13f248028032cde3485ae1ef59b517)] -> xpath: //input[@id='home_password']]
+2017-05-19 19:07:19 INFO  Homepage:109 - clicking on signinbutton:[[OperaDriver: chrome on XP (8f13f248028032cde3485ae1ef59b517)] -> xpath: //input[@value='Sign In']]
+2017-05-19 19:07:41 INFO  Homepage:154 - clicked on :Weekend Getawaysnavigation menu
+2017-05-19 20:16:31 INFO  Homepage:154 - clicked on :Weekend Getawaysnavigation menu
+2017-05-19 20:18:33 INFO  Homepage:154 - clicked on :Weekend Getawaysnavigation menu
+2017-05-19 20:26:47 INFO  Homepage:154 - clicked on :Weekend Getawaysnavigation menu
+2017-05-19 20:30:19 INFO  Homepage:154 - clicked on :Weekend Getawaysnavigation menu
+2017-05-19 20:31:18 INFO  Productlisting:41 - selected package is :Blissful Manali
+2017-05-19 20:33:38 INFO  Homepage:154 - clicked on :Weekend Getawaysnavigation menu
+2017-05-19 20:33:49 INFO  Productlisting:41 - selected package is :Blissful Manali
+2017-05-20 11:46:25 INFO  Homepage:154 - clicked on :Weekend Getawaysnavigation menu
+2017-05-20 11:46:43 INFO  Productlisting:41 - selected package is :Blissful Manali
+2017-05-20 11:49:47 INFO  Homepage:154 - clicked on :Weekend Getawaysnavigation menu
+2017-05-20 11:49:53 INFO  Homepage:89 - clicking on email:[[ChromeDriver: chrome on XP (0201d23660945a79c19bca4d880f8791)] -> xpath: //input[@id='home_username']]
+2017-05-20 11:54:37 INFO  Homepage:154 - clicked on :Weekend Getawaysnavigation menu
+2017-05-20 11:54:42 INFO  Homepage:89 - clicking on email:[[ChromeDriver: chrome on XP (462ceea5996eef75ada5e7e894ab743f)] -> xpath: //input[@id='home_username']]
+2017-05-20 11:54:44 INFO  Homepage:91 - clicking on passwored:[[ChromeDriver: chrome on XP (462ceea5996eef75ada5e7e894ab743f)] -> xpath: //input[@id='home_password']]
+2017-05-20 11:54:44 INFO  Homepage:93 - clicking on signinbutton:[[ChromeDriver: chrome on XP (462ceea5996eef75ada5e7e894ab743f)] -> xpath: //input[@value='Sign In']]
+2017-05-20 11:58:19 INFO  Homepage:89 - clicking on email:[[ChromeDriver: chrome on XP (7a0a992664461b7346b1aabba665617f)] -> xpath: //input[@id='home_username']]
+2017-05-20 11:58:20 INFO  Homepage:91 - clicking on passwored:[[ChromeDriver: chrome on XP (7a0a992664461b7346b1aabba665617f)] -> xpath: //input[@id='home_password']]
+2017-05-20 11:58:21 INFO  Homepage:93 - clicking on signinbutton:[[ChromeDriver: chrome on XP (7a0a992664461b7346b1aabba665617f)] -> xpath: //input[@value='Sign In']]
+2017-05-20 12:00:22 INFO  Homepage:107 - clicking on passwored:[[ChromeDriver: chrome on XP (ce8113c3915876e7a817409d8160ff8f)] -> xpath: //input[@id='home_password']]
+2017-05-20 12:00:23 INFO  Homepage:109 - clicking on signinbutton:[[ChromeDriver: chrome on XP (ce8113c3915876e7a817409d8160ff8f)] -> xpath: //input[@value='Sign In']]
+2017-05-20 12:00:45 INFO  Homepage:154 - clicked on :Weekend Getawaysnavigation menu
+2017-05-20 12:01:05 INFO  Productlisting:41 - selected package is :Blissful Manali
+2017-05-21 14:46:10 INFO  Homepage:104 - clicking on passwored:[[ChromeDriver: chrome on XP (0d2914f0dc89ece597290e88f11f1c6f)] -> xpath: //input[@id='home_password']]
+2017-05-21 14:46:10 INFO  Homepage:106 - clicking on signinbutton:[[ChromeDriver: chrome on XP (0d2914f0dc89ece597290e88f11f1c6f)] -> xpath: //input[@value='Sign In']]
+2017-05-21 14:46:33 INFO  Homepage:151 - clicked on :Weekend Getawaysnavigation menu
+2017-05-21 14:46:54 INFO  Productlisting:43 - selected package is :Blissful Manali
+2017-05-22 11:33:06 INFO  Homepage:104 - clicking on passwored:[[ChromeDriver: chrome on XP (c50e48469ea87f18f1b005fa1543eae9)] -> xpath: //input[@id='home_password']]
+2017-05-22 11:33:06 INFO  Homepage:106 - clicking on signinbutton:[[ChromeDriver: chrome on XP (c50e48469ea87f18f1b005fa1543eae9)] -> xpath: //input[@value='Sign In']]
+2017-05-22 11:33:28 INFO  Homepage:151 - clicked on :Weekend Getawaysnavigation menu
+2017-05-22 11:33:49 INFO  Productlisting:45 - selected package is :Blissful Manali
+2017-05-22 12:14:41 INFO  Homepage:104 - clicking on passwored:[[ChromeDriver: chrome on XP (f4707d304f968ec0f7dbde8b6961869a)] -> xpath: //input[@id='home_password']]
+2017-05-22 12:14:41 INFO  Homepage:106 - clicking on signinbutton:[[ChromeDriver: chrome on XP (f4707d304f968ec0f7dbde8b6961869a)] -> xpath: //input[@value='Sign In']]
+2017-05-22 12:15:31 INFO  Homepage:104 - clicking on passwored:[[ChromeDriver: chrome on XP (2738fd873ced87f09f3f67c96f1299cc)] -> xpath: //input[@id='home_password']]
+2017-05-22 12:15:32 INFO  Homepage:106 - clicking on signinbutton:[[ChromeDriver: chrome on XP (2738fd873ced87f09f3f67c96f1299cc)] -> xpath: //input[@value='Sign In']]
+2017-05-22 12:15:52 INFO  Homepage:151 - clicked on :Weekend Getawaysnavigation menu
+2017-05-22 12:16:10 INFO  Productlisting:46 - selected package is :Blissful Manali
+2017-05-22 13:06:11 INFO  Homepage:104 - clicking on passwored:[[ChromeDriver: chrome on XP (2684971f8300c2d1191b302cc0cf11b1)] -> xpath: //input[@id='home_password']]
+2017-05-22 13:06:12 INFO  Homepage:106 - clicking on signinbutton:[[ChromeDriver: chrome on XP (2684971f8300c2d1191b302cc0cf11b1)] -> xpath: //input[@value='Sign In']]
+2017-05-22 13:06:49 INFO  Homepage:151 - clicked on :Weekend Getawaysnavigation menu
+2017-05-22 13:07:30 INFO  Productlisting:46 - selected package is :Blissful Manali
+2017-05-22 13:14:17 INFO  Homepage:104 - clicking on passwored:[[ChromeDriver: chrome on XP (3b9f6938c59e86216d814d6fab562c16)] -> xpath: //input[@id='home_password']]
+2017-05-22 13:14:17 INFO  Homepage:106 - clicking on signinbutton:[[ChromeDriver: chrome on XP (3b9f6938c59e86216d814d6fab562c16)] -> xpath: //input[@value='Sign In']]
+2017-05-22 13:14:39 INFO  Homepage:151 - clicked on :Weekend Getawaysnavigation menu
+2017-05-22 13:14:56 INFO  Productlisting:46 - selected package is :Blissful Manali
+2017-05-22 16:14:15 INFO  Homepage:86 - clicking on email:[[ChromeDriver: chrome on XP (d35f92c6bd7f3df137ec8caf15955c0b)] -> xpath: //input[@id='home_username']]
+2017-05-22 16:14:16 INFO  Homepage:88 - clicking on passwored:[[ChromeDriver: chrome on XP (d35f92c6bd7f3df137ec8caf15955c0b)] -> xpath: //input[@id='home_password']]
+2017-05-22 16:14:16 INFO  Homepage:90 - clicking on signinbutton:[[ChromeDriver: chrome on XP (d35f92c6bd7f3df137ec8caf15955c0b)] -> xpath: //input[@value='Sign In']]
+2017-05-22 16:14:22 INFO  Homepage:94 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-22 16:14:28 INFO  Homepage:86 - clicking on email:[[ChromeDriver: chrome on XP (d35f92c6bd7f3df137ec8caf15955c0b)] -> xpath: //input[@id='home_username']]
+2017-05-22 16:14:29 INFO  Homepage:88 - clicking on passwored:[[ChromeDriver: chrome on XP (d35f92c6bd7f3df137ec8caf15955c0b)] -> xpath: //input[@id='home_password']]
+2017-05-22 16:14:29 INFO  Homepage:90 - clicking on signinbutton:[[ChromeDriver: chrome on XP (d35f92c6bd7f3df137ec8caf15955c0b)] -> xpath: //input[@value='Sign In']]
+2017-05-22 16:14:34 INFO  Homepage:94 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-22 16:14:39 INFO  Homepage:86 - clicking on email:[[ChromeDriver: chrome on XP (d35f92c6bd7f3df137ec8caf15955c0b)] -> xpath: //input[@id='home_username']]
+2017-05-22 16:14:40 INFO  Homepage:88 - clicking on passwored:[[ChromeDriver: chrome on XP (d35f92c6bd7f3df137ec8caf15955c0b)] -> xpath: //input[@id='home_password']]
+2017-05-22 16:14:40 INFO  Homepage:90 - clicking on signinbutton:[[ChromeDriver: chrome on XP (d35f92c6bd7f3df137ec8caf15955c0b)] -> xpath: //input[@value='Sign In']]
+2017-05-22 16:14:45 INFO  Homepage:94 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-22 17:49:05 INFO  Homepage:104 - clicking on passwored:[[ChromeDriver: chrome on XP (27185e3fdd7eb24660032142b6159f63)] -> xpath: //input[@id='home_password']]
+2017-05-22 17:49:06 INFO  Homepage:106 - clicking on signinbutton:[[ChromeDriver: chrome on XP (27185e3fdd7eb24660032142b6159f63)] -> xpath: //input[@value='Sign In']]
+2017-05-22 17:49:27 INFO  Homepage:151 - clicked on :Weekend Getawaysnavigation menu
+2017-05-22 17:49:56 INFO  Productlisting:46 - selected package is :Blissful Manali
+2017-05-22 18:00:05 INFO  Homepage:104 - clicking on passwored:[[ChromeDriver: chrome on XP (45eccfef010df44fc8ce7f87b7cc993d)] -> xpath: //input[@id='home_password']]
+2017-05-22 18:00:05 INFO  Homepage:106 - clicking on signinbutton:[[ChromeDriver: chrome on XP (45eccfef010df44fc8ce7f87b7cc993d)] -> xpath: //input[@value='Sign In']]
+2017-05-22 18:02:00 INFO  Homepage:104 - clicking on passwored:[[ChromeDriver: chrome on XP (92a5e34a163963a1fe651f41904acb2b)] -> xpath: //input[@id='home_password']]
+2017-05-22 18:02:01 INFO  Homepage:106 - clicking on signinbutton:[[ChromeDriver: chrome on XP (92a5e34a163963a1fe651f41904acb2b)] -> xpath: //input[@value='Sign In']]
+2017-05-22 18:02:26 INFO  Homepage:151 - clicked on :Weekend Getawaysnavigation menu
+2017-05-22 18:02:49 INFO  Productlisting:46 - selected package is :Blissful Manali
+2017-05-22 18:28:53 INFO  Homepage:104 - clicking on passwored:[[ChromeDriver: chrome on XP (e525aa57f5cd64fe3cd3982bb95ee41c)] -> xpath: //input[@id='home_password']]
+2017-05-22 18:28:54 INFO  Homepage:106 - clicking on signinbutton:[[ChromeDriver: chrome on XP (e525aa57f5cd64fe3cd3982bb95ee41c)] -> xpath: //input[@value='Sign In']]
+2017-05-22 18:29:32 INFO  Homepage:151 - clicked on :Weekend Getawaysnavigation menu
+2017-05-22 18:29:47 INFO  Productlisting:46 - selected package is :Blissful Manali
+2017-05-22 18:40:34 INFO  Homepage:104 - clicking on passwored:[[ChromeDriver: chrome on XP (0c7994399a888ceaf9d1e736eeaaf79f)] -> xpath: //input[@id='home_password']]
+2017-05-22 18:40:34 INFO  Homepage:106 - clicking on signinbutton:[[ChromeDriver: chrome on XP (0c7994399a888ceaf9d1e736eeaaf79f)] -> xpath: //input[@value='Sign In']]
+2017-05-22 18:40:57 INFO  Homepage:151 - clicked on :Weekend Getawaysnavigation menu
+2017-05-22 18:41:11 INFO  Productlisting:46 - selected package is :Blissful Manali
+2017-05-22 18:53:38 INFO  Homepage:104 - clicking on passwored:[[ChromeDriver: chrome on XP (ac05add7892bf3b7a23e9b688617eb43)] -> xpath: //input[@id='home_password']]
+2017-05-22 18:53:39 INFO  Homepage:106 - clicking on signinbutton:[[ChromeDriver: chrome on XP (ac05add7892bf3b7a23e9b688617eb43)] -> xpath: //input[@value='Sign In']]
+2017-05-22 18:55:01 INFO  Homepage:151 - clicked on :Weekend Getawaysnavigation menu
+2017-05-22 18:55:20 INFO  Productlisting:46 - selected package is :Blissful Manali
+2017-05-22 19:01:58 INFO  Homepage:104 - clicking on passwored:[[ChromeDriver: chrome on XP (cba9adc6e28f525c17ec7a47a6222b4d)] -> xpath: //input[@id='home_password']]
+2017-05-22 19:01:59 INFO  Homepage:106 - clicking on signinbutton:[[ChromeDriver: chrome on XP (cba9adc6e28f525c17ec7a47a6222b4d)] -> xpath: //input[@value='Sign In']]
+2017-05-22 19:02:20 INFO  Homepage:151 - clicked on :Weekend Getawaysnavigation menu
+2017-05-22 19:02:43 INFO  Productlisting:46 - selected package is :Blissful Manali
+2017-05-22 19:06:08 INFO  Homepage:104 - clicking on passwored:[[ChromeDriver: chrome on XP (7e7ce80a723cbe2177cae64cecbceac4)] -> xpath: //input[@id='home_password']]
+2017-05-22 19:06:09 INFO  Homepage:106 - clicking on signinbutton:[[ChromeDriver: chrome on XP (7e7ce80a723cbe2177cae64cecbceac4)] -> xpath: //input[@value='Sign In']]
+2017-05-22 19:06:33 INFO  Homepage:151 - clicked on :Weekend Getawaysnavigation menu
+2017-05-22 19:06:56 INFO  Productlisting:46 - selected package is :Blissful Manali
+2017-05-22 19:09:54 INFO  Homepage:104 - clicking on passwored:[[ChromeDriver: chrome on XP (e26cea90abb6ab018316f407597b7b39)] -> xpath: //input[@id='home_password']]
+2017-05-22 19:09:54 INFO  Homepage:106 - clicking on signinbutton:[[ChromeDriver: chrome on XP (e26cea90abb6ab018316f407597b7b39)] -> xpath: //input[@value='Sign In']]
+2017-05-22 19:11:05 INFO  Homepage:151 - clicked on :Weekend Getawaysnavigation menu
+2017-05-22 19:12:56 INFO  Productlisting:46 - selected package is :Blissful Manali
+2017-05-22 19:19:02 INFO  Homepage:104 - clicking on passwored:[[ChromeDriver: chrome on XP (1e8cfc94f70df3d8833a0147af71f707)] -> xpath: //input[@id='home_password']]
+2017-05-22 19:19:03 INFO  Homepage:106 - clicking on signinbutton:[[ChromeDriver: chrome on XP (1e8cfc94f70df3d8833a0147af71f707)] -> xpath: //input[@value='Sign In']]
+2017-05-22 19:19:26 INFO  Homepage:151 - clicked on :Weekend Getawaysnavigation menu
+2017-05-22 19:19:43 INFO  Productlisting:46 - selected package is :Blissful Manali
+2017-05-22 19:27:50 INFO  Homepage:104 - clicking on passwored:[[ChromeDriver: chrome on XP (28fef73e80ab9be0184182ef03a96a24)] -> xpath: //input[@id='home_password']]
+2017-05-22 19:27:50 INFO  Homepage:106 - clicking on signinbutton:[[ChromeDriver: chrome on XP (28fef73e80ab9be0184182ef03a96a24)] -> xpath: //input[@value='Sign In']]
+2017-05-22 19:28:50 INFO  Homepage:151 - clicked on :Weekend Getawaysnavigation menu
+2017-05-22 19:29:15 INFO  Productlisting:46 - selected package is :Blissful Manali
+2017-05-24 17:13:46 INFO  Webeventlistners:126 - Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] 
+2017-05-24 17:13:47 INFO  Webeventlistners:126 - Clicked on: [[ChromeDriver: chrome on XP (67bcc461657908230ccc17539112f5ba)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-24 17:15:03 INFO  Webeventlistners:126 - Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] 
+2017-05-24 17:15:03 INFO  Webeventlistners:126 - Clicked on: [[ChromeDriver: chrome on XP (66d479c63fd10381e7bf77c080b76bd1)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-24 17:17:53 INFO  Webeventlistners:125 - Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] 
+2017-05-24 17:17:53 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (0bdbcc0005916b51f80a3e5e6bebcaeb)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-24 17:25:19 INFO  Webeventlistners:121 - Trying to click on: [[ChromeDriver: chrome on XP (a4ea3416ab0273c7279435e9cb63ccc9)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-24 17:25:20 INFO  Webeventlistners:121 - Clicked on: [[ChromeDriver: chrome on XP (a4ea3416ab0273c7279435e9cb63ccc9)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-24 17:34:02 INFO  Webeventlistners:125 - Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] 
+2017-05-24 17:34:02 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (795437a533ad8244b2465abc18b078ed)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-24 17:34:02 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (795437a533ad8244b2465abc18b078ed)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-24 17:34:04 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_username']
+2017-05-24 17:34:05 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_password']
+2017-05-24 17:34:05 INFO  Homepage:104 - clicking on passwored:[[ChromeDriver: chrome on XP (795437a533ad8244b2465abc18b078ed)] -> xpath: //input[@id='home_password']]
+2017-05-24 17:34:05 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_password']
+2017-05-24 17:34:05 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@value='Sign In']
+2017-05-24 17:34:05 INFO  Homepage:106 - clicking on signinbutton:[[ChromeDriver: chrome on XP (795437a533ad8244b2465abc18b078ed)] -> xpath: //input[@value='Sign In']]
+2017-05-24 17:34:05 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@value='Sign In']
+2017-05-24 17:34:05 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (795437a533ad8244b2465abc18b078ed)] -> xpath: //input[@value='Sign In']]
+2017-05-24 17:34:06 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (795437a533ad8244b2465abc18b078ed)] -> xpath: //input[@value='Sign In']]
+2017-05-24 17:34:21 INFO  Webeventlistners:125 - Found Element By : By.xpath: //i[@class='fa fa-bars floatLeft menuIcon']
+2017-05-24 17:34:21 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (795437a533ad8244b2465abc18b078ed)] -> xpath: //i[@class='fa fa-bars floatLeft menuIcon']]
+2017-05-24 17:34:21 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (795437a533ad8244b2465abc18b078ed)] -> xpath: //i[@class='fa fa-bars floatLeft menuIcon']]
+2017-05-24 17:34:22 INFO  Webeventlistners:125 - Found Element By : By.xpath: //a[contains(text(),'Weekend Getaways')]
+2017-05-24 17:34:22 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (795437a533ad8244b2465abc18b078ed)] -> xpath: //a[contains(text(),'Weekend Getaways')]]
+2017-05-24 17:34:28 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (795437a533ad8244b2465abc18b078ed)] -> xpath: //a[contains(text(),'Weekend Getaways')]]
+2017-05-24 17:34:28 INFO  Homepage:151 - clicked on :Weekend Getawaysnavigation menu
+2017-05-24 17:34:35 INFO  Webeventlistners:125 - Found Element By : By.xpath: //a[contains(text(),'Blissful Manali')]
+2017-05-24 17:34:35 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (795437a533ad8244b2465abc18b078ed)] -> xpath: //a[contains(text(),'Blissful Manali')]]
+2017-05-24 17:34:54 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (795437a533ad8244b2465abc18b078ed)] -> xpath: //a[contains(text(),'Blissful Manali')]]
+2017-05-24 17:34:54 INFO  Productlisting:46 - selected package is :Blissful Manali
+2017-05-24 18:58:42 INFO  Webeventlistners:125 - Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] 
+2017-05-24 18:58:42 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (4aeccbf338e1f450f8d5903e31b3dd07)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-24 18:58:43 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (4aeccbf338e1f450f8d5903e31b3dd07)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-24 18:58:45 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_username']
+2017-05-24 18:58:45 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_password']
+2017-05-24 18:58:45 INFO  Homepage:104 - clicking on passwored:[[ChromeDriver: chrome on XP (4aeccbf338e1f450f8d5903e31b3dd07)] -> xpath: //input[@id='home_password']]
+2017-05-24 18:58:45 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_password']
+2017-05-24 18:58:46 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@value='Sign In']
+2017-05-24 18:58:46 INFO  Homepage:106 - clicking on signinbutton:[[ChromeDriver: chrome on XP (4aeccbf338e1f450f8d5903e31b3dd07)] -> xpath: //input[@value='Sign In']]
+2017-05-24 18:58:46 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@value='Sign In']
+2017-05-24 18:58:46 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (4aeccbf338e1f450f8d5903e31b3dd07)] -> xpath: //input[@value='Sign In']]
+2017-05-24 18:58:47 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (4aeccbf338e1f450f8d5903e31b3dd07)] -> xpath: //input[@value='Sign In']]
+2017-05-24 18:59:02 INFO  Webeventlistners:125 - Found Element By : By.xpath: //i[@class='fa fa-bars floatLeft menuIcon']
+2017-05-24 18:59:02 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (4aeccbf338e1f450f8d5903e31b3dd07)] -> xpath: //i[@class='fa fa-bars floatLeft menuIcon']]
+2017-05-24 18:59:02 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (4aeccbf338e1f450f8d5903e31b3dd07)] -> xpath: //i[@class='fa fa-bars floatLeft menuIcon']]
+2017-05-24 18:59:02 INFO  Webeventlistners:125 - Found Element By : By.xpath: //a[contains(text(),'Weekend Getaways')]
+2017-05-24 18:59:02 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (4aeccbf338e1f450f8d5903e31b3dd07)] -> xpath: //a[contains(text(),'Weekend Getaways')]]
+2017-05-24 18:59:08 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (4aeccbf338e1f450f8d5903e31b3dd07)] -> xpath: //a[contains(text(),'Weekend Getaways')]]
+2017-05-24 18:59:08 INFO  Homepage:151 - clicked on :Weekend Getawaysnavigation menu
+2017-05-24 18:59:15 INFO  Webeventlistners:125 - Found Element By : By.xpath: //a[contains(text(),'Blissful Manali')]
+2017-05-24 18:59:15 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (4aeccbf338e1f450f8d5903e31b3dd07)] -> xpath: //a[contains(text(),'Blissful Manali')]]
+2017-05-24 18:59:23 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (4aeccbf338e1f450f8d5903e31b3dd07)] -> xpath: //a[contains(text(),'Blissful Manali')]]
+2017-05-24 18:59:23 INFO  Productlisting:46 - selected package is :Blissful Manali
+2017-05-24 20:54:48 INFO  Webeventlistners:125 - Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] 
+2017-05-24 20:54:48 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (fe0cf5367d01b2ba26f6c29f2a9d453a)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-24 20:54:49 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (fe0cf5367d01b2ba26f6c29f2a9d453a)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-24 20:54:51 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_username']
+2017-05-24 20:54:52 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_password']
+2017-05-24 20:54:52 INFO  Homepage:104 - clicking on passwored:[[ChromeDriver: chrome on XP (fe0cf5367d01b2ba26f6c29f2a9d453a)] -> xpath: //input[@id='home_password']]
+2017-05-24 20:54:52 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_password']
+2017-05-24 20:54:52 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@value='Sign In']
+2017-05-24 20:54:52 INFO  Homepage:106 - clicking on signinbutton:[[ChromeDriver: chrome on XP (fe0cf5367d01b2ba26f6c29f2a9d453a)] -> xpath: //input[@value='Sign In']]
+2017-05-24 20:54:52 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@value='Sign In']
+2017-05-24 20:54:52 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (fe0cf5367d01b2ba26f6c29f2a9d453a)] -> xpath: //input[@value='Sign In']]
+2017-05-24 20:54:53 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (fe0cf5367d01b2ba26f6c29f2a9d453a)] -> xpath: //input[@value='Sign In']]
+2017-05-24 20:55:08 INFO  Webeventlistners:125 - Found Element By : By.xpath: //i[@class='fa fa-bars floatLeft menuIcon']
+2017-05-24 20:55:08 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (fe0cf5367d01b2ba26f6c29f2a9d453a)] -> xpath: //i[@class='fa fa-bars floatLeft menuIcon']]
+2017-05-24 20:55:09 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (fe0cf5367d01b2ba26f6c29f2a9d453a)] -> xpath: //i[@class='fa fa-bars floatLeft menuIcon']]
+2017-05-24 20:55:09 INFO  Webeventlistners:125 - Found Element By : By.xpath: //a[contains(text(),'Weekend Getaways')]
+2017-05-24 20:55:09 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (fe0cf5367d01b2ba26f6c29f2a9d453a)] -> xpath: //a[contains(text(),'Weekend Getaways')]]
+2017-05-24 20:55:14 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (fe0cf5367d01b2ba26f6c29f2a9d453a)] -> xpath: //a[contains(text(),'Weekend Getaways')]]
+2017-05-24 20:55:14 INFO  Homepage:151 - clicked on :Weekend Getawaysnavigation menu
+2017-05-24 20:55:21 INFO  Webeventlistners:125 - Found Element By : By.xpath: //a[contains(text(),'Blissful Manali')]
+2017-05-24 20:55:21 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (fe0cf5367d01b2ba26f6c29f2a9d453a)] -> xpath: //a[contains(text(),'Blissful Manali')]]
+2017-05-24 20:55:29 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (fe0cf5367d01b2ba26f6c29f2a9d453a)] -> xpath: //a[contains(text(),'Blissful Manali')]]
+2017-05-24 20:55:29 INFO  Productlisting:46 - selected package is :Blissful Manali
+2017-05-25 12:31:18 INFO  Webeventlistners:125 - Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] 
+2017-05-25 12:31:18 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (acf54d7dd0cd191334388bc178764f4f)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-25 12:31:18 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (acf54d7dd0cd191334388bc178764f4f)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-25 12:31:18 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_username']
+2017-05-25 12:31:19 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_password']
+2017-05-25 12:31:19 INFO  Homepage:104 - clicking on passwored:[[ChromeDriver: chrome on XP (acf54d7dd0cd191334388bc178764f4f)] -> xpath: //input[@id='home_password']]
+2017-05-25 12:31:19 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_password']
+2017-05-25 12:31:20 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@value='Sign In']
+2017-05-25 12:31:20 INFO  Homepage:106 - clicking on signinbutton:[[ChromeDriver: chrome on XP (acf54d7dd0cd191334388bc178764f4f)] -> xpath: //input[@value='Sign In']]
+2017-05-25 12:31:20 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@value='Sign In']
+2017-05-25 12:31:20 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (acf54d7dd0cd191334388bc178764f4f)] -> xpath: //input[@value='Sign In']]
+2017-05-25 12:31:21 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (acf54d7dd0cd191334388bc178764f4f)] -> xpath: //input[@value='Sign In']]
+2017-05-25 12:31:32 INFO  Webeventlistners:125 - Found Element By : By.xpath: //i[@class='fa fa-bars floatLeft menuIcon']
+2017-05-25 12:31:32 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (acf54d7dd0cd191334388bc178764f4f)] -> xpath: //i[@class='fa fa-bars floatLeft menuIcon']]
+2017-05-25 12:31:32 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (acf54d7dd0cd191334388bc178764f4f)] -> xpath: //i[@class='fa fa-bars floatLeft menuIcon']]
+2017-05-25 12:31:37 INFO  Webeventlistners:125 - Found Element By : By.xpath: //a[contains(text(),'Weekend Getaways')]
+2017-05-25 12:31:37 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (acf54d7dd0cd191334388bc178764f4f)] -> xpath: //a[contains(text(),'Weekend Getaways')]]
+2017-05-25 12:31:42 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (acf54d7dd0cd191334388bc178764f4f)] -> xpath: //a[contains(text(),'Weekend Getaways')]]
+2017-05-25 12:31:42 INFO  Homepage:151 - clicked on :Weekend Getawaysnavigation menu
+2017-05-25 12:32:06 INFO  Testbase:165 - browser closed
+2017-05-25 14:02:44 INFO  Webeventlistners:125 - Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] 
+2017-05-25 14:02:44 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (6d68f3158ae35b23721c6435476ec1d2)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-25 14:02:45 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (6d68f3158ae35b23721c6435476ec1d2)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-25 14:02:45 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_username']
+2017-05-25 14:02:46 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_password']
+2017-05-25 14:02:46 INFO  Homepage:104 - clicking on passwored:[[ChromeDriver: chrome on XP (6d68f3158ae35b23721c6435476ec1d2)] -> xpath: //input[@id='home_password']]
+2017-05-25 14:02:46 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_password']
+2017-05-25 14:02:46 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@value='Sign In']
+2017-05-25 14:02:46 INFO  Homepage:106 - clicking on signinbutton:[[ChromeDriver: chrome on XP (6d68f3158ae35b23721c6435476ec1d2)] -> xpath: //input[@value='Sign In']]
+2017-05-25 14:02:46 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@value='Sign In']
+2017-05-25 14:02:46 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (6d68f3158ae35b23721c6435476ec1d2)] -> xpath: //input[@value='Sign In']]
+2017-05-25 14:02:47 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (6d68f3158ae35b23721c6435476ec1d2)] -> xpath: //input[@value='Sign In']]
+2017-05-25 14:02:57 INFO  Webeventlistners:125 - Found Element By : By.xpath: //i[@class='fa fa-bars floatLeft menuIcon']
+2017-05-25 14:02:57 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (6d68f3158ae35b23721c6435476ec1d2)] -> xpath: //i[@class='fa fa-bars floatLeft menuIcon']]
+2017-05-25 14:02:58 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (6d68f3158ae35b23721c6435476ec1d2)] -> xpath: //i[@class='fa fa-bars floatLeft menuIcon']]
+2017-05-25 14:03:03 INFO  Webeventlistners:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Weekend Getaways1')]"}
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 107 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.3.1', revision: '5234b325d5', time: '2017-03-10 09:10:29 +0000'
+System info: host: 'VIGNESH-PC', ip: '192.168.0.129', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\Vignesh\AppData\Local\Temp\scoped_dir5952_32216}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 6d68f3158ae35b23721c6435476ec1d2
+*** Element info: {Using=xpath, value=//a[contains(text(),'Weekend Getaways1')]}
+2017-05-25 14:03:06 INFO  Testbase:165 - browser closed
+2017-05-25 14:39:41 INFO  Webeventlistners:125 - Before navigating to: 'https://www.thetripworks.com/holidays'
+2017-05-25 14:39:51 INFO  Webeventlistners:125 - Navigated to:'https://www.thetripworks.com/holidays'
+2017-05-25 14:39:55 INFO  Webeventlistners:125 - Before navigating to: 'https://www.thetripworks.com/holidays'
+2017-05-25 14:40:07 INFO  Webeventlistners:125 - Navigated to:'https://www.thetripworks.com/holidays'
+2017-05-25 14:40:10 INFO  Webeventlistners:125 - Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] 
+2017-05-25 14:40:10 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (48a23ff2588b4cb98e5b5043e8a7cbc5)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-25 14:40:11 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (48a23ff2588b4cb98e5b5043e8a7cbc5)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-25 14:40:11 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_username']
+2017-05-25 14:40:11 INFO  Homepage:86 - clicking on email:[[ChromeDriver: chrome on XP (48a23ff2588b4cb98e5b5043e8a7cbc5)] -> xpath: //input[@id='home_username']]
+2017-05-25 14:40:11 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_username']
+2017-05-25 14:40:12 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_password']
+2017-05-25 14:40:12 INFO  Homepage:88 - clicking on passwored:[[ChromeDriver: chrome on XP (48a23ff2588b4cb98e5b5043e8a7cbc5)] -> xpath: //input[@id='home_password']]
+2017-05-25 14:40:12 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_password']
+2017-05-25 14:40:12 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@value='Sign In']
+2017-05-25 14:40:12 INFO  Homepage:90 - clicking on signinbutton:[[ChromeDriver: chrome on XP (48a23ff2588b4cb98e5b5043e8a7cbc5)] -> xpath: //input[@value='Sign In']]
+2017-05-25 14:40:12 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@value='Sign In']
+2017-05-25 14:40:12 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (48a23ff2588b4cb98e5b5043e8a7cbc5)] -> xpath: //input[@value='Sign In']]
+2017-05-25 14:40:13 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (48a23ff2588b4cb98e5b5043e8a7cbc5)] -> xpath: //input[@value='Sign In']]
+2017-05-25 14:40:17 INFO  Webeventlistners:125 - Found Element By : By.xpath: //div[@id='home_username-error']
+2017-05-25 14:40:17 INFO  Homepage:94 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-25 14:40:18 INFO  Webeventlistners:125 - Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] 
+2017-05-25 14:40:18 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (48a23ff2588b4cb98e5b5043e8a7cbc5)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-25 14:40:18 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (48a23ff2588b4cb98e5b5043e8a7cbc5)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-25 14:40:22 INFO  Webeventlistners:125 - Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] 
+2017-05-25 14:40:22 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (48a23ff2588b4cb98e5b5043e8a7cbc5)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-25 14:40:22 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (48a23ff2588b4cb98e5b5043e8a7cbc5)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-25 14:40:22 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_username']
+2017-05-25 14:40:22 INFO  Homepage:86 - clicking on email:[[ChromeDriver: chrome on XP (48a23ff2588b4cb98e5b5043e8a7cbc5)] -> xpath: //input[@id='home_username']]
+2017-05-25 14:40:23 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_username']
+2017-05-25 14:40:23 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_password']
+2017-05-25 14:40:23 INFO  Homepage:88 - clicking on passwored:[[ChromeDriver: chrome on XP (48a23ff2588b4cb98e5b5043e8a7cbc5)] -> xpath: //input[@id='home_password']]
+2017-05-25 14:40:23 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_password']
+2017-05-25 14:40:23 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@value='Sign In']
+2017-05-25 14:40:23 INFO  Homepage:90 - clicking on signinbutton:[[ChromeDriver: chrome on XP (48a23ff2588b4cb98e5b5043e8a7cbc5)] -> xpath: //input[@value='Sign In']]
+2017-05-25 14:40:23 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@value='Sign In']
+2017-05-25 14:40:23 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (48a23ff2588b4cb98e5b5043e8a7cbc5)] -> xpath: //input[@value='Sign In']]
+2017-05-25 14:40:24 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (48a23ff2588b4cb98e5b5043e8a7cbc5)] -> xpath: //input[@value='Sign In']]
+2017-05-25 14:40:28 INFO  Webeventlistners:125 - Found Element By : By.xpath: //div[@id='home_username-error']
+2017-05-25 14:40:28 INFO  Homepage:94 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-25 14:40:28 INFO  Webeventlistners:125 - Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] 
+2017-05-25 14:40:28 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (48a23ff2588b4cb98e5b5043e8a7cbc5)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-25 14:40:29 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (48a23ff2588b4cb98e5b5043e8a7cbc5)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-25 14:40:33 INFO  Webeventlistners:125 - Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] 
+2017-05-25 14:40:33 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (48a23ff2588b4cb98e5b5043e8a7cbc5)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-25 14:40:33 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (48a23ff2588b4cb98e5b5043e8a7cbc5)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-25 14:40:33 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_username']
+2017-05-25 14:40:33 INFO  Homepage:86 - clicking on email:[[ChromeDriver: chrome on XP (48a23ff2588b4cb98e5b5043e8a7cbc5)] -> xpath: //input[@id='home_username']]
+2017-05-25 14:40:33 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_username']
+2017-05-25 14:40:33 INFO  Webeventlistners:125 - Exception occured: org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 65 milliseconds
+Build info: version: '3.3.1', revision: '5234b325d5', time: '2017-03-10 09:10:29 +0000'
+System info: host: 'VIGNESH-PC', ip: '192.168.0.129', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\Vignesh\AppData\Local\Temp\scoped_dir7028_23807}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 48a23ff2588b4cb98e5b5043e8a7cbc5
+2017-05-25 14:40:49 INFO  Testbase:172 - browser closed
+2017-05-25 14:40:50 INFO  Webeventlistners:125 - Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] 
+2017-05-25 14:40:50 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (808d0472779c9dcefefa2778d0048e21)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-25 14:40:50 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (808d0472779c9dcefefa2778d0048e21)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-25 14:40:51 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_username']
+2017-05-25 14:40:52 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_password']
+2017-05-25 14:40:52 INFO  Homepage:104 - clicking on passwored:[[ChromeDriver: chrome on XP (808d0472779c9dcefefa2778d0048e21)] -> xpath: //input[@id='home_password']]
+2017-05-25 14:40:52 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_password']
+2017-05-25 14:40:53 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@value='Sign In']
+2017-05-25 14:40:53 INFO  Homepage:106 - clicking on signinbutton:[[ChromeDriver: chrome on XP (808d0472779c9dcefefa2778d0048e21)] -> xpath: //input[@value='Sign In']]
+2017-05-25 14:40:53 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@value='Sign In']
+2017-05-25 14:40:53 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (808d0472779c9dcefefa2778d0048e21)] -> xpath: //input[@value='Sign In']]
+2017-05-25 14:40:54 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (808d0472779c9dcefefa2778d0048e21)] -> xpath: //input[@value='Sign In']]
+2017-05-25 14:41:04 INFO  Webeventlistners:125 - Found Element By : By.xpath: //i[@class='fa fa-bars floatLeft menuIcon']
+2017-05-25 14:41:04 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (808d0472779c9dcefefa2778d0048e21)] -> xpath: //i[@class='fa fa-bars floatLeft menuIcon']]
+2017-05-25 14:41:04 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (808d0472779c9dcefefa2778d0048e21)] -> xpath: //i[@class='fa fa-bars floatLeft menuIcon']]
+2017-05-25 14:41:09 INFO  Webeventlistners:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Weekend Getaways1')]"}
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 82 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.3.1', revision: '5234b325d5', time: '2017-03-10 09:10:29 +0000'
+System info: host: 'VIGNESH-PC', ip: '192.168.0.129', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\Vignesh\AppData\Local\Temp\scoped_dir4344_28586}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 808d0472779c9dcefefa2778d0048e21
+*** Element info: {Using=xpath, value=//a[contains(text(),'Weekend Getaways1')]}
+2017-05-25 14:41:12 INFO  Testbase:172 - browser closed
+2017-05-25 14:41:12 INFO  Webeventlistners:125 - Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] 
+2017-05-25 14:41:12 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (3fefb3935bc66191b865dda6c72aa290)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-25 14:41:12 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (3fefb3935bc66191b865dda6c72aa290)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-25 14:41:15 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_username']
+2017-05-25 14:41:15 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_password']
+2017-05-25 14:41:15 INFO  Homepage:104 - clicking on passwored:[[ChromeDriver: chrome on XP (3fefb3935bc66191b865dda6c72aa290)] -> xpath: //input[@id='home_password']]
+2017-05-25 14:41:15 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_password']
+2017-05-25 14:41:15 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@value='Sign In']
+2017-05-25 14:41:15 INFO  Homepage:106 - clicking on signinbutton:[[ChromeDriver: chrome on XP (3fefb3935bc66191b865dda6c72aa290)] -> xpath: //input[@value='Sign In']]
+2017-05-25 14:41:15 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@value='Sign In']
+2017-05-25 14:41:15 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (3fefb3935bc66191b865dda6c72aa290)] -> xpath: //input[@value='Sign In']]
+2017-05-25 14:41:16 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (3fefb3935bc66191b865dda6c72aa290)] -> xpath: //input[@value='Sign In']]
+2017-05-25 14:41:31 INFO  Webeventlistners:125 - Found Element By : By.xpath: //i[@class='fa fa-bars floatLeft menuIcon']
+2017-05-25 14:41:31 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (3fefb3935bc66191b865dda6c72aa290)] -> xpath: //i[@class='fa fa-bars floatLeft menuIcon']]
+2017-05-25 14:41:32 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (3fefb3935bc66191b865dda6c72aa290)] -> xpath: //i[@class='fa fa-bars floatLeft menuIcon']]
+2017-05-25 14:41:32 INFO  Webeventlistners:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Weekend Getaways1')]"}
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 146 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.3.1', revision: '5234b325d5', time: '2017-03-10 09:10:29 +0000'
+System info: host: 'VIGNESH-PC', ip: '192.168.0.129', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\Vignesh\AppData\Local\Temp\scoped_dir2908_30674}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 3fefb3935bc66191b865dda6c72aa290
+*** Element info: {Using=xpath, value=//a[contains(text(),'Weekend Getaways1')]}
+2017-05-25 14:41:34 INFO  Testbase:172 - browser closed
+2017-05-25 14:41:35 INFO  Webeventlistners:125 - Exception occured: org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.3.1', revision: '5234b325d5', time: '2017-03-10 09:10:29 +0000'
+System info: host: 'VIGNESH-PC', ip: '192.168.0.129', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: driver.version: EventFiringWebDriver
+2017-05-25 14:44:00 INFO  Webeventlistners:125 - Before navigating to: 'https://www.thetripworks.com/holidays'
+2017-05-25 14:44:10 INFO  Webeventlistners:125 - Navigated to:'https://www.thetripworks.com/holidays'
+2017-05-25 14:44:15 INFO  Webeventlistners:125 - Before navigating to: 'https://www.thetripworks.com/holidays'
+2017-05-25 14:44:26 INFO  Webeventlistners:125 - Navigated to:'https://www.thetripworks.com/holidays'
+2017-05-25 14:44:28 INFO  Webeventlistners:125 - Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] 
+2017-05-25 14:44:28 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-25 14:44:29 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-25 14:44:29 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_username']
+2017-05-25 14:44:29 INFO  Homepage:86 - clicking on email:[[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //input[@id='home_username']]
+2017-05-25 14:44:29 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_username']
+2017-05-25 14:44:30 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_password']
+2017-05-25 14:44:30 INFO  Homepage:88 - clicking on passwored:[[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //input[@id='home_password']]
+2017-05-25 14:44:30 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_password']
+2017-05-25 14:44:30 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@value='Sign In']
+2017-05-25 14:44:30 INFO  Homepage:90 - clicking on signinbutton:[[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //input[@value='Sign In']]
+2017-05-25 14:44:30 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@value='Sign In']
+2017-05-25 14:44:30 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //input[@value='Sign In']]
+2017-05-25 14:44:31 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //input[@value='Sign In']]
+2017-05-25 14:44:35 INFO  Webeventlistners:125 - Found Element By : By.xpath: //div[@id='home_username-error']
+2017-05-25 14:44:35 INFO  Homepage:94 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-25 14:44:35 INFO  Webeventlistners:125 - Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] 
+2017-05-25 14:44:35 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-25 14:44:36 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-25 14:44:40 INFO  Webeventlistners:125 - Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] 
+2017-05-25 14:44:40 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-25 14:44:40 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-25 14:44:40 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_username']
+2017-05-25 14:44:40 INFO  Homepage:86 - clicking on email:[[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //input[@id='home_username']]
+2017-05-25 14:44:40 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_username']
+2017-05-25 14:44:41 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_password']
+2017-05-25 14:44:41 INFO  Homepage:88 - clicking on passwored:[[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //input[@id='home_password']]
+2017-05-25 14:44:41 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_password']
+2017-05-25 14:44:41 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@value='Sign In']
+2017-05-25 14:44:41 INFO  Homepage:90 - clicking on signinbutton:[[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //input[@value='Sign In']]
+2017-05-25 14:44:41 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@value='Sign In']
+2017-05-25 14:44:41 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //input[@value='Sign In']]
+2017-05-25 14:44:42 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //input[@value='Sign In']]
+2017-05-25 14:44:46 INFO  Webeventlistners:125 - Found Element By : By.xpath: //div[@id='home_username-error']
+2017-05-25 14:44:46 INFO  Homepage:94 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-25 14:44:46 INFO  Webeventlistners:125 - Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] 
+2017-05-25 14:44:46 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-25 14:44:46 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-25 14:44:50 INFO  Webeventlistners:125 - Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] 
+2017-05-25 14:44:50 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-25 14:44:50 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-25 14:44:51 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_username']
+2017-05-25 14:44:51 INFO  Homepage:86 - clicking on email:[[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //input[@id='home_username']]
+2017-05-25 14:44:51 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_username']
+2017-05-25 14:44:51 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_password']
+2017-05-25 14:44:51 INFO  Homepage:88 - clicking on passwored:[[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //input[@id='home_password']]
+2017-05-25 14:44:51 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_password']
+2017-05-25 14:44:52 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@value='Sign In']
+2017-05-25 14:44:52 INFO  Homepage:90 - clicking on signinbutton:[[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //input[@value='Sign In']]
+2017-05-25 14:44:52 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@value='Sign In']
+2017-05-25 14:44:52 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //input[@value='Sign In']]
+2017-05-25 14:44:52 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //input[@value='Sign In']]
+2017-05-25 14:44:57 INFO  Webeventlistners:125 - Found Element By : By.xpath: //div[@id='home_username-error']
+2017-05-25 14:44:57 INFO  Homepage:94 - alert text is:Sorry, unrecognized Email Address or Password
+2017-05-25 14:44:57 INFO  Webeventlistners:125 - Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] 
+2017-05-25 14:44:57 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-25 14:44:57 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-25 14:45:03 INFO  Testbase:172 - browser closed
+2017-05-25 14:45:04 INFO  Webeventlistners:125 - Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] 
+2017-05-25 14:45:04 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (40a57c2b7019748e754506160520336e)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-25 14:45:05 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (40a57c2b7019748e754506160520336e)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-25 14:45:05 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_username']
+2017-05-25 14:45:06 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_password']
+2017-05-25 14:45:06 INFO  Homepage:104 - clicking on passwored:[[ChromeDriver: chrome on XP (40a57c2b7019748e754506160520336e)] -> xpath: //input[@id='home_password']]
+2017-05-25 14:45:06 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_password']
+2017-05-25 14:45:07 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@value='Sign In']
+2017-05-25 14:45:07 INFO  Homepage:106 - clicking on signinbutton:[[ChromeDriver: chrome on XP (40a57c2b7019748e754506160520336e)] -> xpath: //input[@value='Sign In']]
+2017-05-25 14:45:07 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@value='Sign In']
+2017-05-25 14:45:07 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (40a57c2b7019748e754506160520336e)] -> xpath: //input[@value='Sign In']]
+2017-05-25 14:45:07 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (40a57c2b7019748e754506160520336e)] -> xpath: //input[@value='Sign In']]
+2017-05-25 14:45:18 INFO  Webeventlistners:125 - Found Element By : By.xpath: //i[@class='fa fa-bars floatLeft menuIcon']
+2017-05-25 14:45:18 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (40a57c2b7019748e754506160520336e)] -> xpath: //i[@class='fa fa-bars floatLeft menuIcon']]
+2017-05-25 14:45:18 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (40a57c2b7019748e754506160520336e)] -> xpath: //i[@class='fa fa-bars floatLeft menuIcon']]
+2017-05-25 14:45:23 INFO  Webeventlistners:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Weekend Getaways1')]"}
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 90 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.3.1', revision: '5234b325d5', time: '2017-03-10 09:10:29 +0000'
+System info: host: 'VIGNESH-PC', ip: '192.168.0.129', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\Vignesh\AppData\Local\Temp\scoped_dir6328_26693}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 40a57c2b7019748e754506160520336e
+*** Element info: {Using=xpath, value=//a[contains(text(),'Weekend Getaways1')]}
+2017-05-25 14:45:26 INFO  Testbase:172 - browser closed
+2017-05-25 14:45:26 INFO  Webeventlistners:125 - Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] 
+2017-05-25 14:45:26 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (621394627b543e1d20de0a7bfb8a0bba)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-25 14:45:27 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (621394627b543e1d20de0a7bfb8a0bba)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]
+2017-05-25 14:45:29 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_username']
+2017-05-25 14:45:29 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_password']
+2017-05-25 14:45:29 INFO  Homepage:104 - clicking on passwored:[[ChromeDriver: chrome on XP (621394627b543e1d20de0a7bfb8a0bba)] -> xpath: //input[@id='home_password']]
+2017-05-25 14:45:29 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@id='home_password']
+2017-05-25 14:45:30 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@value='Sign In']
+2017-05-25 14:45:30 INFO  Homepage:106 - clicking on signinbutton:[[ChromeDriver: chrome on XP (621394627b543e1d20de0a7bfb8a0bba)] -> xpath: //input[@value='Sign In']]
+2017-05-25 14:45:30 INFO  Webeventlistners:125 - Found Element By : By.xpath: //input[@value='Sign In']
+2017-05-25 14:45:30 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (621394627b543e1d20de0a7bfb8a0bba)] -> xpath: //input[@value='Sign In']]
+2017-05-25 14:45:30 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (621394627b543e1d20de0a7bfb8a0bba)] -> xpath: //input[@value='Sign In']]
+2017-05-25 14:45:45 INFO  Webeventlistners:125 - Found Element By : By.xpath: //i[@class='fa fa-bars floatLeft menuIcon']
+2017-05-25 14:45:45 INFO  Webeventlistners:125 - Trying to click on: [[ChromeDriver: chrome on XP (621394627b543e1d20de0a7bfb8a0bba)] -> xpath: //i[@class='fa fa-bars floatLeft menuIcon']]
+2017-05-25 14:45:46 INFO  Webeventlistners:125 - Clicked on: [[ChromeDriver: chrome on XP (621394627b543e1d20de0a7bfb8a0bba)] -> xpath: //i[@class='fa fa-bars floatLeft menuIcon']]
+2017-05-25 14:45:46 INFO  Webeventlistners:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Weekend Getaways1')]"}
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 180 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.3.1', revision: '5234b325d5', time: '2017-03-10 09:10:29 +0000'
+System info: host: 'VIGNESH-PC', ip: '192.168.0.129', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\Vignesh\AppData\Local\Temp\scoped_dir6844_16637}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 621394627b543e1d20de0a7bfb8a0bba
+*** Element info: {Using=xpath, value=//a[contains(text(),'Weekend Getaways1')]}
+2017-05-25 14:45:49 INFO  Testbase:172 - browser closed
+2017-05-25 14:45:49 INFO  Webeventlistners:125 - Exception occured: org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.3.1', revision: '5234b325d5', time: '2017-03-10 09:10:29 +0000'
+System info: host: 'VIGNESH-PC', ip: '192.168.0.129', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: driver.version: EventFiringWebDriver

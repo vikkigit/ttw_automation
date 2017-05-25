@@ -41,10 +41,10 @@ public class TC001_verifylogin_withinvalidcredentials extends Testbase {
 	}
 	
 
-/*
+
 	@AfterTest
 	public void exit() {
 		driver.close();
 	}
-*/
+
 }

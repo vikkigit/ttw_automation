@@ -4,6 +4,7 @@ import java.io.IOException;
 
 import org.apache.log4j.Logger;
 import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
@@ -24,7 +25,7 @@ public class TC001_verifylogin_withinvalidcredentials extends Testbase {
 
 	}
 
-	@BeforeTest
+	@BeforeClass
 	public void setup() throws IOException {
 		init();
 		
@@ -37,14 +38,15 @@ public class TC001_verifylogin_withinvalidcredentials extends Testbase {
 		homepage = new Homepage(driver);
 		homepage.signin();
 		homepage.verifying_invalid_login(email, password);
-		Thread.sleep(4000);
+		Thread.sleep(9000);
+		
 	}
 	
 
 
-	@AfterTest
+/*	@AfterTest
 	public void exit() {
 		driver.close();
 	}
-
+*/
 }

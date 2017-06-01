@@ -9,6 +9,8 @@ import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 import com.test.automation.uiAutomation.testbase.Testbase;
 
+import javafx.scene.control.Alert;
+
 public class Homepage extends Testbase {
 	
 	public static final Logger log=Logger.getLogger(Homepage.class.getName());
@@ -17,7 +19,7 @@ public class Homepage extends Testbase {
 	
 	WebDriver driver;
 	
-	@FindBy(xpath="//img[@src='https://www.thetripworks.com/sites/all/themes/ttw/xlogo.png.pagespeed.ic.4xywcRR_no.png']")
+	@FindBy(xpath="//img[@alt='The Trip Works']")
 	WebElement logo;
 	
 	@FindBy(xpath="//a[@class='signinLink'][text()='Log In'] ")
@@ -35,8 +37,11 @@ public class Homepage extends Testbase {
 	@FindBy(xpath="//div[@id='home_username-error']")
 	WebElement Authentication_failed;
 	
-	@FindBy(xpath="//div[@value='Escape to...']")
-	WebElement search;
+/*	@FindBy(xpath="//div[contains(text(),'Escape to')]")
+	WebElement search;*/
+	
+	
+//	@FindBy(xpath="//select[@id='adult_1']/option[contains(text(),'3')]")
 	
 	@FindBy(xpath="//div[@id='home_username-error'][text()='Please enter valid Email Address.']")
 	WebElement nullalert;
@@ -47,8 +52,8 @@ public class Homepage extends Testbase {
 	@FindBy(xpath="//a[text()='Signout']")
 	WebElement signout;
 	
-	@FindBy(xpath="//div[@class='searchInput']")
-	WebElement mainsearch;
+/*	@FindBy(xpath="//div[@class='searchInput']")
+	WebElement mainsearch;*/
 	
 	@FindBy(xpath="//input[@id='experiencedata']")
 	WebElement subsearch;
@@ -56,13 +61,17 @@ public class Homepage extends Testbase {
 	@FindBy(xpath="//a[@href='https://www.thetripworks.com/search/detail/1642']/button")
 	WebElement packagedetails;
 	
-	@FindBy(xpath="//button[@class='bookNowbtn floatRight checkuser_bookingdata bookNowButtonMargin'][text()='Book Now !']")
-	WebElement booknow;
+	
 	
 	
 	@FindBy(xpath="//i[@class='fa fa-bars floatLeft menuIcon']")
 	WebElement menuicon;
 	
+	
+	
+	
+	
+
 
 	public Homepage(WebDriver driver) {
 			this.driver=driver;
@@ -81,6 +90,13 @@ public class Homepage extends Testbase {
 		} 
 	}
 
+	public void logo(){
+		boolean display=logo.isDisplayed();
+		if(display==true){
+			logo.click();
+		}
+	}
+	
 	public void verifying_invalid_login(String emailid, String passcode) throws InterruptedException {
 		
 		log.info("clicking on email:"+email.toString());
@@ -107,10 +123,12 @@ public class Homepage extends Testbase {
 		submitsignin.click();
 		Thread.sleep(10000);
 		
-		
-		
-		
 	}
+	
+	
+	
+	
+	
 	
 	public void menuicon(){
 		menuicon.click();
@@ -137,14 +155,26 @@ public class Homepage extends Testbase {
 	
 	
 	
-	public void search() throws InterruptedException{
-		subsearch.sendKeys("kerala");
-		Thread.sleep(7000);
-		packagedetails.click();
-		Thread.sleep(5000);
-		booknow.click();
-		
-	}
+	
+
+	
+	
+	
+	
+	
+	/*public void person_alert(){
+		driver.findElement(By.xpath("//button[@id='alertify-ok']")).click();
+	}*/
+	
+	
+	
+
+	
+	
+	
+// date formate:   Select Friday, Aug 4, 2017
+	
+	
 	
 	public void clickonnavigation_menu(String menuname){
 		driver.findElement(By.xpath("//a[contains(text(),'"+menuname+"')]")).click();
@@ -154,6 +184,7 @@ public class Homepage extends Testbase {
 	
 	
 	
+	
 
 	
 	
@@ -161,27 +192,7 @@ public class Homepage extends Testbase {
 	
 	
 	
-	
-/*	@DataProvider(name = "logindata_valid")
-	public String[][] gettestdata_valid() {
-		String[][] testrecords = getdata("userlogins.xlsx", "validemail");
-		return testrecords;
 
-	}
-	
-	
-	
-	@Test(dataProvider="logindata_valid" , enabled=true)
-	public void logintest_valid(String email, String password) throws InterruptedException{
-	new Homepage(driver);
-	signin();
-	verifying_valid_login(email, password);
-	Thread.sleep(4000);
-	signout();
-	Thread.sleep(4000);	
-	}
-	*/
-	
 	
 	
 

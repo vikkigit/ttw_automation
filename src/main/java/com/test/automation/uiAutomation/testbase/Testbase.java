@@ -5,7 +5,9 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
+import java.util.Iterator;
 import java.util.Properties;
+import java.util.Set;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Logger;
@@ -104,7 +106,7 @@ public class Testbase {
 
 	public void scrolldown() {
 		JavascriptExecutor jsx = (JavascriptExecutor) driver;
-		jsx.executeScript("window.scrollBy(0,450)", "");
+		jsx.executeScript("window.scrollBy(0,250)", "");
 	}
 
 	public void scrollup() {
@@ -166,6 +168,15 @@ public class Testbase {
 	public void endtest() {
 		closebrowser();
 	}
+	
+	public Iterator<String> allwindows(){
+		 Set<String> noofwindows = driver.getWindowHandles();
+		 Iterator<String> itr = noofwindows.iterator();
+		 return itr;
+	}
+	
+	
+	
 
 	public void closebrowser() {
 		driver.quit();

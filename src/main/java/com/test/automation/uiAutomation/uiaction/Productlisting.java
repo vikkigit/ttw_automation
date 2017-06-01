@@ -16,7 +16,7 @@ public class Productlisting extends Testbase {
 	
 	public final String  Royal_Coochbehar_Tour="Royal Coochbehar Tour";
 	public final String Blissful_Manali="Blissful Manali";
-	public final int date=23;
+	
 	
 	
 	

@@ -23,15 +23,15 @@ public class TC001_Search_search extends Testbase {
 
 		scrolldown();
 		Thread.sleep(5000);
-		Search.search();
+		Search.search(Search.destination);
 		Thread.sleep(5000);
 		Search.dates();
 		Thread.sleep(5000);
-		Search.adult_no(Search.adult);
+		Search.select_adult(Search.adult);
 		Search.select_child(Search.child);
-		if (Search.adult == 2 || Search.child >= 2) {
+		if (Search.adult == 2 && Search.child >= 2) {
 			Search.alert_child_adult();
-		} else if (Search.adult == 3 || Search.child >= 1) {
+		} else if (Search.adult == 3 && Search.child >= 1) {
 			Search.alert_child_adult();
 			Thread.sleep(4000);
 		}

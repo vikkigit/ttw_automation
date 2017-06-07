@@ -3,12 +3,15 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.test.automation.uiAutomation.homepage.TC003_booking">
+      <class name="com.test.automation.uiAutomation.aboutus.TC001_aboutus">
         <methods>
-          <include name="startup"/>
-          <include name="selectpackage"/>
+          <include name="verify_aboutus"/>
+          <include name="aftermethod"/>
+          <include name="endtest"/>
+          <include name="beforemethod"/>
+          <include name="setup"/>
         </methods>
-      </class> <!-- com.test.automation.uiAutomation.homepage.TC003_booking -->
+      </class> <!-- com.test.automation.uiAutomation.aboutus.TC001_aboutus -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

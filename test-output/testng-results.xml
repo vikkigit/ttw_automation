@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="2" ignored="0" total="5" passed="3">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
     <line>
       <![CDATA[Before navigating to: 'https://www.thetripworks.com/holidays']]>
@@ -8,459 +8,54 @@
       <![CDATA[Navigated to:'https://www.thetripworks.com/holidays']]>
     </line>
     <line>
-      <![CDATA[Before navigating to: 'https://www.thetripworks.com/holidays']]>
-    </line>
-    <line>
-      <![CDATA[Navigated to:'https://www.thetripworks.com/holidays']]>
-    </line>
-    <line>
-      <![CDATA[Before navigating to: 'https://www.thetripworks.com/holidays']]>
-    </line>
-    <line>
-      <![CDATA[Navigated to:'https://www.thetripworks.com/holidays']]>
-    </line>
-    <line>
-      <![CDATA[Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] ]]>
-    </line>
-    <line>
-      <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
-    </line>
-    <line>
-      <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
-    </line>
-    <line>
-      <![CDATA[Found Element By : By.xpath: //input[@id='home_username']]]>
-    </line>
-    <line>
-      <![CDATA[Found Element By : By.xpath: //input[@id='home_username']]]>
-    </line>
-    <line>
-      <![CDATA[Found Element By : By.xpath: //input[@id='home_password']]]>
-    </line>
-    <line>
-      <![CDATA[Found Element By : By.xpath: //input[@id='home_password']]]>
-    </line>
-    <line>
-      <![CDATA[Found Element By : By.xpath: //input[@value='Sign In']]]>
-    </line>
-    <line>
-      <![CDATA[Found Element By : By.xpath: //input[@value='Sign In']]]>
-    </line>
-    <line>
-      <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //input[@value='Sign In']]]]>
-    </line>
-    <line>
-      <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //input[@value='Sign In']]]]>
-    </line>
-    <line>
-      <![CDATA[Found Element By : By.xpath: //div[@id='home_username-error']]]>
-    </line>
-    <line>
-      <![CDATA[Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] ]]>
-    </line>
-    <line>
-      <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
-    </line>
-    <line>
-      <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
-    </line>
-    <line>
-      <![CDATA[Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] ]]>
-    </line>
-    <line>
-      <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
-    </line>
-    <line>
-      <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
-    </line>
-    <line>
-      <![CDATA[Found Element By : By.xpath: //input[@id='home_username']]]>
-    </line>
-    <line>
-      <![CDATA[Found Element By : By.xpath: //input[@id='home_username']]]>
-    </line>
-    <line>
-      <![CDATA[Found Element By : By.xpath: //input[@id='home_password']]]>
-    </line>
-    <line>
-      <![CDATA[Found Element By : By.xpath: //input[@id='home_password']]]>
-    </line>
-    <line>
-      <![CDATA[Found Element By : By.xpath: //input[@value='Sign In']]]>
-    </line>
-    <line>
-      <![CDATA[Found Element By : By.xpath: //input[@value='Sign In']]]>
-    </line>
-    <line>
-      <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //input[@value='Sign In']]]]>
-    </line>
-    <line>
-      <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //input[@value='Sign In']]]]>
-    </line>
-    <line>
-      <![CDATA[Found Element By : By.xpath: //div[@id='home_username-error']]]>
-    </line>
-    <line>
-      <![CDATA[Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] ]]>
-    </line>
-    <line>
-      <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
-    </line>
-    <line>
-      <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
-    </line>
-    <line>
-      <![CDATA[Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] ]]>
-    </line>
-    <line>
-      <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
-    </line>
-    <line>
-      <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
-    </line>
-    <line>
-      <![CDATA[Found Element By : By.xpath: //input[@id='home_username']]]>
-    </line>
-    <line>
-      <![CDATA[Found Element By : By.xpath: //input[@id='home_username']]]>
-    </line>
-    <line>
-      <![CDATA[Found Element By : By.xpath: //input[@id='home_password']]]>
-    </line>
-    <line>
-      <![CDATA[Found Element By : By.xpath: //input[@id='home_password']]]>
-    </line>
-    <line>
-      <![CDATA[Found Element By : By.xpath: //input[@value='Sign In']]]>
-    </line>
-    <line>
-      <![CDATA[Found Element By : By.xpath: //input[@value='Sign In']]]>
-    </line>
-    <line>
-      <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //input[@value='Sign In']]]]>
-    </line>
-    <line>
-      <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //input[@value='Sign In']]]]>
-    </line>
-    <line>
-      <![CDATA[Found Element By : By.xpath: //div[@id='home_username-error']]]>
-    </line>
-    <line>
-      <![CDATA[Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] ]]>
-    </line>
-    <line>
-      <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
-    </line>
-    <line>
-      <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
-    </line>
-    <line>
-      <![CDATA[Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] ]]>
-    </line>
-    <line>
-      <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (40a57c2b7019748e754506160520336e)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
-    </line>
-    <line>
-      <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (40a57c2b7019748e754506160520336e)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
-    </line>
-    <line>
-      <![CDATA[Found Element By : By.xpath: //input[@id='home_username']]]>
-    </line>
-    <line>
-      <![CDATA[Found Element By : By.xpath: //input[@id='home_password']]]>
-    </line>
-    <line>
-      <![CDATA[Found Element By : By.xpath: //input[@id='home_password']]]>
-    </line>
-    <line>
-      <![CDATA[Found Element By : By.xpath: //input[@value='Sign In']]]>
-    </line>
-    <line>
-      <![CDATA[Found Element By : By.xpath: //input[@value='Sign In']]]>
-    </line>
-    <line>
-      <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (40a57c2b7019748e754506160520336e)] -> xpath: //input[@value='Sign In']]]]>
-    </line>
-    <line>
-      <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (40a57c2b7019748e754506160520336e)] -> xpath: //input[@value='Sign In']]]]>
-    </line>
-    <line>
       <![CDATA[Found Element By : By.xpath: //i[@class='fa fa-bars floatLeft menuIcon']]]>
     </line>
     <line>
-      <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (40a57c2b7019748e754506160520336e)] -> xpath: //i[@class='fa fa-bars floatLeft menuIcon']]]]>
+      <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (bfe67850ba01ea29cefa53ef81e25852)] -> xpath: //i[@class='fa fa-bars floatLeft menuIcon']]]]>
     </line>
     <line>
-      <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (40a57c2b7019748e754506160520336e)] -> xpath: //i[@class='fa fa-bars floatLeft menuIcon']]]]>
+      <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (bfe67850ba01ea29cefa53ef81e25852)] -> xpath: //i[@class='fa fa-bars floatLeft menuIcon']]]]>
     </line>
     <line>
-      <![CDATA[Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Weekend Getaways1')]"}
-  (Session info: chrome=58.0.3029.110)
-  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 90 milliseconds
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.3.1', revision: '5234b325d5', time: '2017-03-10 09:10:29 +0000'
-System info: host: 'VIGNESH-PC', ip: '192.168.0.129', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\Vignesh\AppData\Local\Temp\scoped_dir6328_26693}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
-Session ID: 40a57c2b7019748e754506160520336e
-*** Element info: {Using=xpath, value=//a[contains(text(),'Weekend Getaways1')]}]]>
+      <![CDATA[Found Element By : By.xpath: //a[contains(text(),'About Us')]]]>
     </line>
     <line>
-      <![CDATA[Exception occured:]]>
+      <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (bfe67850ba01ea29cefa53ef81e25852)] -> xpath: //a[contains(text(),'About Us')]]]]>
     </line>
     <line>
-      <![CDATA[<a href='D:\workspaces\uiAutomation\src\main\java\com\test\automation\uiAutomation\screenshot\blank_25_05_2017_02_45_23.png'> <img src='D:\workspaces\uiAutomation\src\main\java\com\test\automation\uiAutomation\screenshot\blank_25_05_2017_02_45_23.png' height='100' width='100'/> </a>]]>
+      <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (bfe67850ba01ea29cefa53ef81e25852)] -> xpath: //a[contains(text(),'About Us')]]]]>
     </line>
     <line>
-      <![CDATA[Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] ]]>
+      <![CDATA[Found Element By : By.xpath: //h1[contains(text(),'About TheTripWorks')]]]>
     </line>
     <line>
-      <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (621394627b543e1d20de0a7bfb8a0bba)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
+      <![CDATA[Found Element By : By.xpath: //span[@class='aboutNavText'][contains(text(),'How does TheTripWorks')]]]>
     </line>
     <line>
-      <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (621394627b543e1d20de0a7bfb8a0bba)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
+      <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (bfe67850ba01ea29cefa53ef81e25852)] -> xpath: //span[@class='aboutNavText'][contains(text(),'How does TheTripWorks')]]]]>
     </line>
     <line>
-      <![CDATA[Found Element By : By.xpath: //input[@id='home_username']]]>
+      <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (bfe67850ba01ea29cefa53ef81e25852)] -> xpath: //span[@class='aboutNavText'][contains(text(),'How does TheTripWorks')]]]]>
     </line>
     <line>
-      <![CDATA[Found Element By : By.xpath: //input[@id='home_password']]]>
+      <![CDATA[Found Element By : By.xpath: //span[@class='aboutNavText'][contains(text(),'Contact')]]]>
     </line>
     <line>
-      <![CDATA[Found Element By : By.xpath: //input[@id='home_password']]]>
+      <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (bfe67850ba01ea29cefa53ef81e25852)] -> xpath: //span[@class='aboutNavText'][contains(text(),'Contact')]]]]>
     </line>
     <line>
-      <![CDATA[Found Element By : By.xpath: //input[@value='Sign In']]]>
+      <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (bfe67850ba01ea29cefa53ef81e25852)] -> xpath: //span[@class='aboutNavText'][contains(text(),'Contact')]]]]>
     </line>
     <line>
-      <![CDATA[Found Element By : By.xpath: //input[@value='Sign In']]]>
-    </line>
-    <line>
-      <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (621394627b543e1d20de0a7bfb8a0bba)] -> xpath: //input[@value='Sign In']]]]>
-    </line>
-    <line>
-      <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (621394627b543e1d20de0a7bfb8a0bba)] -> xpath: //input[@value='Sign In']]]]>
-    </line>
-    <line>
-      <![CDATA[Found Element By : By.xpath: //i[@class='fa fa-bars floatLeft menuIcon']]]>
-    </line>
-    <line>
-      <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (621394627b543e1d20de0a7bfb8a0bba)] -> xpath: //i[@class='fa fa-bars floatLeft menuIcon']]]]>
-    </line>
-    <line>
-      <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (621394627b543e1d20de0a7bfb8a0bba)] -> xpath: //i[@class='fa fa-bars floatLeft menuIcon']]]]>
-    </line>
-    <line>
-      <![CDATA[Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Weekend Getaways1')]"}
-  (Session info: chrome=58.0.3029.110)
-  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 180 milliseconds
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.3.1', revision: '5234b325d5', time: '2017-03-10 09:10:29 +0000'
-System info: host: 'VIGNESH-PC', ip: '192.168.0.129', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\Vignesh\AppData\Local\Temp\scoped_dir6844_16637}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
-Session ID: 621394627b543e1d20de0a7bfb8a0bba
-*** Element info: {Using=xpath, value=//a[contains(text(),'Weekend Getaways1')]}]]>
-    </line>
-    <line>
-      <![CDATA[Exception occured:]]>
-    </line>
-    <line>
-      <![CDATA[<a href='D:\workspaces\uiAutomation\src\main\java\com\test\automation\uiAutomation\screenshot\blank_25_05_2017_02_45_46.png'> <img src='D:\workspaces\uiAutomation\src\main\java\com\test\automation\uiAutomation\screenshot\blank_25_05_2017_02_45_46.png' height='100' width='100'/> </a>]]>
-    </line>
-    <line>
-      <![CDATA[Exception occured: org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
-Build info: version: '3.3.1', revision: '5234b325d5', time: '2017-03-10 09:10:29 +0000'
-System info: host: 'VIGNESH-PC', ip: '192.168.0.129', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
-Driver info: driver.version: EventFiringWebDriver]]>
-    </line>
-    <line>
-      <![CDATA[Exception occured:]]>
+      <![CDATA[Found Element By : By.xpath: //span[contains(text(),'Pune')]]]>
     </line>
   </reporter-output>
-  <suite name="Regression Suit2" duration-ms="136198" started-at="2017-05-25T09:13:33Z" finished-at="2017-05-25T09:15:49Z">
+  <suite name="Default suite" duration-ms="83931" started-at="2017-06-06T07:12:48Z" finished-at="2017-06-06T07:14:12Z">
     <groups>
     </groups>
-    <test name="test" duration-ms="136198" started-at="2017-05-25T09:13:33Z" finished-at="2017-05-25T09:15:49Z">
-      <class name="com.test.automation.uiAutomation.homepage.TC002_verifylogin_withvalidcredentials">
-        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:com.test.automation.uiAutomation.homepage.TC002_verifylogin_withvalidcredentials@1dd92fe2]" name="beforemethod" is-config="true" duration-ms="1" started-at="2017-05-25T14:45:04Z" finished-at="2017-05-25T14:45:04Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void com.test.automation.uiAutomation.homepage.TC002_verifylogin_withvalidcredentials.logintest_valid(java.lang.String,java.lang.String) throws java.lang.InterruptedException]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforemethod -->
-        <test-method status="FAIL" signature="logintest_valid(java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.uiAutomation.homepage.TC002_verifylogin_withvalidcredentials@1dd92fe2]" name="logintest_valid" duration-ms="18621" started-at="2017-05-25T14:45:04Z" data-provider="logindata_valid" finished-at="2017-05-25T14:45:23Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[vicky24.ttw@gmail.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[vvv9894502383]]>
-              </value>
-            </param>
-          </params>
-          <exception class="org.openqa.selenium.NoSuchElementException">
-            <message>
-              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Weekend Getaways1')]"}
-  (Session info: chrome=58.0.3029.110)
-  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 90 milliseconds
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.3.1', revision: '5234b325d5', time: '2017-03-10 09:10:29 +0000'
-System info: host: 'VIGNESH-PC', ip: '192.168.0.129', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\Vignesh\AppData\Local\Temp\scoped_dir6328_26693}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
-Session ID: 40a57c2b7019748e754506160520336e
-*** Element info: {Using=xpath, value=//a[contains(text(),'Weekend Getaways1')]}]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Weekend Getaways1')]"}
-  (Session info: chrome=58.0.3029.110)
-  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 90 milliseconds
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.3.1', revision: '5234b325d5', time: '2017-03-10 09:10:29 +0000'
-System info: host: 'VIGNESH-PC', ip: '192.168.0.129', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\Vignesh\AppData\Local\Temp\scoped_dir6328_26693}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
-Session ID: 40a57c2b7019748e754506160520336e
-*** Element info: {Using=xpath, value=//a[contains(text(),'Weekend Getaways1')]}
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
-	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:216)
-	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:168)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:638)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:371)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:476)
-	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
-	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.lang.reflect.Method.invoke(Method.java:498)
-	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:104)
-	at com.sun.proxy.$Proxy11.findElement(Unknown Source)
-	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:188)
-	at com.test.automation.uiAutomation.uiaction.Homepage.clickonnavigation_menu(Homepage.java:150)
-	at com.test.automation.uiAutomation.homepage.TC002_verifylogin_withvalidcredentials.logintest_valid(TC002_verifylogin_withvalidcredentials.java:44)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.lang.reflect.Method.invoke(Method.java:498)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
-	at org.testng.TestRunner.privateRun(TestRunner.java:756)
-	at org.testng.TestRunner.run(TestRunner.java:610)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
-	at org.testng.TestNG.runSuites(TestNG.java:1133)
-	at org.testng.TestNG.run(TestNG.java:1104)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
-          <reporter-output>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] ]]>
-            </line>
-            <line>
-              <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (40a57c2b7019748e754506160520336e)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
-            </line>
-            <line>
-              <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (40a57c2b7019748e754506160520336e)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
-            </line>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //input[@id='home_username']]]>
-            </line>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //input[@id='home_password']]]>
-            </line>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //input[@id='home_password']]]>
-            </line>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //input[@value='Sign In']]]>
-            </line>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //input[@value='Sign In']]]>
-            </line>
-            <line>
-              <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (40a57c2b7019748e754506160520336e)] -> xpath: //input[@value='Sign In']]]]>
-            </line>
-            <line>
-              <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (40a57c2b7019748e754506160520336e)] -> xpath: //input[@value='Sign In']]]]>
-            </line>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //i[@class='fa fa-bars floatLeft menuIcon']]]>
-            </line>
-            <line>
-              <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (40a57c2b7019748e754506160520336e)] -> xpath: //i[@class='fa fa-bars floatLeft menuIcon']]]]>
-            </line>
-            <line>
-              <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (40a57c2b7019748e754506160520336e)] -> xpath: //i[@class='fa fa-bars floatLeft menuIcon']]]]>
-            </line>
-            <line>
-              <![CDATA[Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Weekend Getaways1')]"}
-  (Session info: chrome=58.0.3029.110)
-  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 90 milliseconds
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.3.1', revision: '5234b325d5', time: '2017-03-10 09:10:29 +0000'
-System info: host: 'VIGNESH-PC', ip: '192.168.0.129', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\Vignesh\AppData\Local\Temp\scoped_dir6328_26693}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
-Session ID: 40a57c2b7019748e754506160520336e
-*** Element info: {Using=xpath, value=//a[contains(text(),'Weekend Getaways1')]}]]>
-            </line>
-            <line>
-              <![CDATA[Exception occured:]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- logintest_valid -->
-        <test-method status="PASS" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:com.test.automation.uiAutomation.homepage.TC002_verifylogin_withvalidcredentials@1dd92fe2]" name="aftermethod" is-config="true" duration-ms="1251" started-at="2017-05-25T14:45:23Z" finished-at="2017-05-25T14:45:24Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=logintest_valid status=FAILURE method=TC002_verifylogin_withvalidcredentials.logintest_valid(java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.uiAutomation.homepage.TC002_verifylogin_withvalidcredentials@1dd92fe2] output=Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[<a href='D:\workspaces\uiAutomation\src\main\java\com\test\automation\uiAutomation\screenshot\blank_25_05_2017_02_45_23.png'> <img src='D:\workspaces\uiAutomation\src\main\java\com\test\automation\uiAutomation\screenshot\blank_25_05_2017_02_45_23.png' height='100' width='100'/> </a>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- aftermethod -->
-        <test-method status="PASS" signature="endtest()[pri:0, instance:com.test.automation.uiAutomation.homepage.TC002_verifylogin_withvalidcredentials@1dd92fe2]" name="endtest" is-config="true" duration-ms="1815" started-at="2017-05-25T14:45:24Z" finished-at="2017-05-25T14:45:26Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- endtest -->
-      </class> <!-- com.test.automation.uiAutomation.homepage.TC002_verifylogin_withvalidcredentials -->
-      <class name="com.test.automation.uiAutomation.homepage.TC001_verifylogin_withinvalidcredentials">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_verifylogin_withinvalidcredentials@255b53dc]" name="setup" is-config="true" duration-ms="22964" started-at="2017-05-25T14:43:33Z" finished-at="2017-05-25T14:43:56Z">
+    <test name="Default test" duration-ms="83931" started-at="2017-06-06T07:12:48Z" finished-at="2017-06-06T07:14:12Z">
+      <class name="com.test.automation.uiAutomation.aboutus.TC001_aboutus">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.test.automation.uiAutomation.aboutus.TC001_aboutus@77e4c80f]" name="setup" is-config="true" duration-ms="53265" started-at="2017-06-06T12:42:48Z" finished-at="2017-06-06T12:43:41Z">
           <reporter-output>
             <line>
               <![CDATA[Before navigating to: 'https://www.thetripworks.com/holidays']]>
@@ -470,507 +65,79 @@ Session ID: 40a57c2b7019748e754506160520336e
             </line>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.test.automation.uiAutomation.homepage.TC002_verifylogin_withvalidcredentials@1dd92fe2]" name="setup" is-config="true" duration-ms="14875" started-at="2017-05-25T14:43:56Z" finished-at="2017-05-25T14:44:10Z">
-          <reporter-output>
-            <line>
-              <![CDATA[Before navigating to: 'https://www.thetripworks.com/holidays']]>
-            </line>
-            <line>
-              <![CDATA[Navigated to:'https://www.thetripworks.com/holidays']]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="startup()[pri:0, instance:com.test.automation.uiAutomation.homepage.TC003_booking@6b53e23f]" name="startup" is-config="true" duration-ms="15262" started-at="2017-05-25T14:44:10Z" finished-at="2017-05-25T14:44:26Z">
-          <reporter-output>
-            <line>
-              <![CDATA[Before navigating to: 'https://www.thetripworks.com/holidays']]>
-            </line>
-            <line>
-              <![CDATA[Navigated to:'https://www.thetripworks.com/holidays']]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- startup -->
-        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_verifylogin_withinvalidcredentials@255b53dc]" name="beforemethod" is-config="true" duration-ms="17" started-at="2017-05-25T14:44:28Z" finished-at="2017-05-25T14:44:28Z">
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:com.test.automation.uiAutomation.aboutus.TC001_aboutus@77e4c80f]" name="beforemethod" is-config="true" duration-ms="13" started-at="2017-06-06T12:43:41Z" finished-at="2017-06-06T12:43:41Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void com.test.automation.uiAutomation.homepage.TC001_verifylogin_withinvalidcredentials.logintest_invalid(java.lang.String,java.lang.String) throws java.lang.InterruptedException]]>
+                <![CDATA[public void com.test.automation.uiAutomation.aboutus.TC001_aboutus.verify_aboutus() throws java.lang.InterruptedException]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforemethod -->
-        <test-method status="PASS" signature="logintest_invalid(java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_verifylogin_withinvalidcredentials@255b53dc]" name="logintest_invalid" duration-ms="11609" started-at="2017-05-25T14:44:28Z" data-provider="logindata_invalid" finished-at="2017-05-25T14:44:40Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[vickyraa2@gmai.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[kjsdfskdfjsd]]>
-              </value>
-            </param>
-          </params>
+        <test-method status="PASS" signature="verify_aboutus()[pri:0, instance:com.test.automation.uiAutomation.aboutus.TC001_aboutus@77e4c80f]" name="verify_aboutus" duration-ms="27377" started-at="2017-06-06T12:43:41Z" finished-at="2017-06-06T12:44:09Z">
           <reporter-output>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] ]]>
-            </line>
-            <line>
-              <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
-            </line>
-            <line>
-              <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
-            </line>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //input[@id='home_username']]]>
-            </line>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //input[@id='home_username']]]>
-            </line>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //input[@id='home_password']]]>
-            </line>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //input[@id='home_password']]]>
-            </line>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //input[@value='Sign In']]]>
-            </line>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //input[@value='Sign In']]]>
-            </line>
-            <line>
-              <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //input[@value='Sign In']]]]>
-            </line>
-            <line>
-              <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //input[@value='Sign In']]]]>
-            </line>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //div[@id='home_username-error']]]>
-            </line>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] ]]>
-            </line>
-            <line>
-              <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
-            </line>
-            <line>
-              <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- logintest_invalid -->
-        <test-method status="PASS" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_verifylogin_withinvalidcredentials@255b53dc]" name="aftermethod" is-config="true" duration-ms="1" started-at="2017-05-25T14:44:40Z" finished-at="2017-05-25T14:44:40Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=logintest_invalid status=SUCCESS method=TC001_verifylogin_withinvalidcredentials.logintest_invalid(java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_verifylogin_withinvalidcredentials@255b53dc] output=Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- aftermethod -->
-        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_verifylogin_withinvalidcredentials@255b53dc]" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-05-25T14:44:40Z" finished-at="2017-05-25T14:44:40Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void com.test.automation.uiAutomation.homepage.TC001_verifylogin_withinvalidcredentials.logintest_invalid(java.lang.String,java.lang.String) throws java.lang.InterruptedException]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforemethod -->
-        <test-method status="PASS" signature="logintest_invalid(java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_verifylogin_withinvalidcredentials@255b53dc]" name="logintest_invalid" duration-ms="10580" started-at="2017-05-25T14:44:40Z" data-provider="logindata_invalid" finished-at="2017-05-25T14:44:50Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[vicky@gmail.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[ajdhfasdfds]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] ]]>
-            </line>
-            <line>
-              <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
-            </line>
-            <line>
-              <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
-            </line>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //input[@id='home_username']]]>
-            </line>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //input[@id='home_username']]]>
-            </line>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //input[@id='home_password']]]>
-            </line>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //input[@id='home_password']]]>
-            </line>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //input[@value='Sign In']]]>
-            </line>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //input[@value='Sign In']]]>
-            </line>
-            <line>
-              <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //input[@value='Sign In']]]]>
-            </line>
-            <line>
-              <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //input[@value='Sign In']]]]>
-            </line>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //div[@id='home_username-error']]]>
-            </line>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] ]]>
-            </line>
-            <line>
-              <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
-            </line>
-            <line>
-              <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- logintest_invalid -->
-        <test-method status="PASS" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_verifylogin_withinvalidcredentials@255b53dc]" name="aftermethod" is-config="true" duration-ms="0" started-at="2017-05-25T14:44:50Z" finished-at="2017-05-25T14:44:50Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=logintest_invalid status=SUCCESS method=TC001_verifylogin_withinvalidcredentials.logintest_invalid(java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_verifylogin_withinvalidcredentials@255b53dc] output=Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- aftermethod -->
-        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_verifylogin_withinvalidcredentials@255b53dc]" name="beforemethod" is-config="true" duration-ms="1" started-at="2017-05-25T14:44:50Z" finished-at="2017-05-25T14:44:50Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void com.test.automation.uiAutomation.homepage.TC001_verifylogin_withinvalidcredentials.logintest_invalid(java.lang.String,java.lang.String) throws java.lang.InterruptedException]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforemethod -->
-        <test-method status="PASS" signature="logintest_invalid(java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_verifylogin_withinvalidcredentials@255b53dc]" name="logintest_invalid" duration-ms="10822" started-at="2017-05-25T14:44:50Z" data-provider="logindata_invalid" finished-at="2017-05-25T14:45:01Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[shankar@gmail.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[sdkjfhskdf]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] ]]>
-            </line>
-            <line>
-              <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
-            </line>
-            <line>
-              <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
-            </line>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //input[@id='home_username']]]>
-            </line>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //input[@id='home_username']]]>
-            </line>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //input[@id='home_password']]]>
-            </line>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //input[@id='home_password']]]>
-            </line>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //input[@value='Sign In']]]>
-            </line>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //input[@value='Sign In']]]>
-            </line>
-            <line>
-              <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //input[@value='Sign In']]]]>
-            </line>
-            <line>
-              <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //input[@value='Sign In']]]]>
-            </line>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //div[@id='home_username-error']]]>
-            </line>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] ]]>
-            </line>
-            <line>
-              <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
-            </line>
-            <line>
-              <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (9eeaad7da6fd6d750d6b8148e93eff74)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- logintest_invalid -->
-        <test-method status="PASS" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_verifylogin_withinvalidcredentials@255b53dc]" name="aftermethod" is-config="true" duration-ms="0" started-at="2017-05-25T14:45:01Z" finished-at="2017-05-25T14:45:01Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=logintest_invalid status=SUCCESS method=TC001_verifylogin_withinvalidcredentials.logintest_invalid(java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_verifylogin_withinvalidcredentials@255b53dc] output=Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- aftermethod -->
-        <test-method status="PASS" signature="endtest()[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_verifylogin_withinvalidcredentials@255b53dc]" name="endtest" is-config="true" duration-ms="3220" started-at="2017-05-25T14:45:01Z" finished-at="2017-05-25T14:45:04Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- endtest -->
-        <test-method status="FAIL" signature="exit()[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_verifylogin_withinvalidcredentials@255b53dc]" name="exit" is-config="true" duration-ms="0" started-at="2017-05-25T14:45:49Z" finished-at="2017-05-25T14:45:49Z">
-          <exception class="org.openqa.selenium.NoSuchSessionException">
-            <message>
-              <![CDATA[Session ID is null. Using WebDriver after calling quit()?
-Build info: version: '3.3.1', revision: '5234b325d5', time: '2017-03-10 09:10:29 +0000'
-System info: host: 'VIGNESH-PC', ip: '192.168.0.129', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
-Driver info: driver.version: EventFiringWebDriver]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
-Build info: version: '3.3.1', revision: '5234b325d5', time: '2017-03-10 09:10:29 +0000'
-System info: host: 'VIGNESH-PC', ip: '192.168.0.129', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
-Driver info: driver.version: EventFiringWebDriver
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:130)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:604)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:661)
-	at org.openqa.selenium.remote.RemoteWebDriver.close(RemoteWebDriver.java:490)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.lang.reflect.Method.invoke(Method.java:498)
-	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:104)
-	at com.sun.proxy.$Proxy11.close(Unknown Source)
-	at org.openqa.selenium.support.events.EventFiringWebDriver.close(EventFiringWebDriver.java:198)
-	at com.test.automation.uiAutomation.homepage.TC001_verifylogin_withinvalidcredentials.exit(TC001_verifylogin_withinvalidcredentials.java:47)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.lang.reflect.Method.invoke(Method.java:498)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
-	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:515)
-	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:217)
-	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:144)
-	at org.testng.TestRunner.afterRun(TestRunner.java:983)
-	at org.testng.TestRunner.run(TestRunner.java:614)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
-	at org.testng.TestNG.runSuites(TestNG.java:1133)
-	at org.testng.TestNG.run(TestNG.java:1104)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
-          <reporter-output>
-            <line>
-              <![CDATA[Exception occured: org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
-Build info: version: '3.3.1', revision: '5234b325d5', time: '2017-03-10 09:10:29 +0000'
-System info: host: 'VIGNESH-PC', ip: '192.168.0.129', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
-Driver info: driver.version: EventFiringWebDriver]]>
-            </line>
-            <line>
-              <![CDATA[Exception occured:]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- exit -->
-      </class> <!-- com.test.automation.uiAutomation.homepage.TC001_verifylogin_withinvalidcredentials -->
-      <class name="com.test.automation.uiAutomation.homepage.TC003_booking">
-        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:com.test.automation.uiAutomation.homepage.TC003_booking@6b53e23f]" name="beforemethod" is-config="true" duration-ms="1" started-at="2017-05-25T14:45:26Z" finished-at="2017-05-25T14:45:26Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void com.test.automation.uiAutomation.homepage.TC003_booking.selectpackage() throws java.lang.InterruptedException]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforemethod -->
-        <test-method status="FAIL" signature="selectpackage()[pri:0, instance:com.test.automation.uiAutomation.homepage.TC003_booking@6b53e23f]" name="selectpackage" duration-ms="19991" started-at="2017-05-25T14:45:26Z" finished-at="2017-05-25T14:45:46Z">
-          <exception class="org.openqa.selenium.NoSuchElementException">
-            <message>
-              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Weekend Getaways1')]"}
-  (Session info: chrome=58.0.3029.110)
-  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 180 milliseconds
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.3.1', revision: '5234b325d5', time: '2017-03-10 09:10:29 +0000'
-System info: host: 'VIGNESH-PC', ip: '192.168.0.129', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\Vignesh\AppData\Local\Temp\scoped_dir6844_16637}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
-Session ID: 621394627b543e1d20de0a7bfb8a0bba
-*** Element info: {Using=xpath, value=//a[contains(text(),'Weekend Getaways1')]}]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Weekend Getaways1')]"}
-  (Session info: chrome=58.0.3029.110)
-  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 180 milliseconds
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.3.1', revision: '5234b325d5', time: '2017-03-10 09:10:29 +0000'
-System info: host: 'VIGNESH-PC', ip: '192.168.0.129', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\Vignesh\AppData\Local\Temp\scoped_dir6844_16637}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
-Session ID: 621394627b543e1d20de0a7bfb8a0bba
-*** Element info: {Using=xpath, value=//a[contains(text(),'Weekend Getaways1')]}
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
-	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:216)
-	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:168)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:638)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:371)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:476)
-	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
-	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.lang.reflect.Method.invoke(Method.java:498)
-	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:104)
-	at com.sun.proxy.$Proxy11.findElement(Unknown Source)
-	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:188)
-	at com.test.automation.uiAutomation.uiaction.Homepage.clickonnavigation_menu(Homepage.java:150)
-	at com.test.automation.uiAutomation.homepage.TC003_booking.selectpackage(TC003_booking.java:44)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.lang.reflect.Method.invoke(Method.java:498)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
-	at org.testng.TestRunner.privateRun(TestRunner.java:756)
-	at org.testng.TestRunner.run(TestRunner.java:610)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
-	at org.testng.TestNG.runSuites(TestNG.java:1133)
-	at org.testng.TestNG.run(TestNG.java:1104)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
-          <reporter-output>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] ]]>
-            </line>
-            <line>
-              <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (621394627b543e1d20de0a7bfb8a0bba)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
-            </line>
-            <line>
-              <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (621394627b543e1d20de0a7bfb8a0bba)] -> xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
-            </line>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //input[@id='home_username']]]>
-            </line>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //input[@id='home_password']]]>
-            </line>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //input[@id='home_password']]]>
-            </line>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //input[@value='Sign In']]]>
-            </line>
-            <line>
-              <![CDATA[Found Element By : By.xpath: //input[@value='Sign In']]]>
-            </line>
-            <line>
-              <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (621394627b543e1d20de0a7bfb8a0bba)] -> xpath: //input[@value='Sign In']]]]>
-            </line>
-            <line>
-              <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (621394627b543e1d20de0a7bfb8a0bba)] -> xpath: //input[@value='Sign In']]]]>
-            </line>
             <line>
               <![CDATA[Found Element By : By.xpath: //i[@class='fa fa-bars floatLeft menuIcon']]]>
             </line>
             <line>
-              <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (621394627b543e1d20de0a7bfb8a0bba)] -> xpath: //i[@class='fa fa-bars floatLeft menuIcon']]]]>
+              <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (bfe67850ba01ea29cefa53ef81e25852)] -> xpath: //i[@class='fa fa-bars floatLeft menuIcon']]]]>
             </line>
             <line>
-              <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (621394627b543e1d20de0a7bfb8a0bba)] -> xpath: //i[@class='fa fa-bars floatLeft menuIcon']]]]>
+              <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (bfe67850ba01ea29cefa53ef81e25852)] -> xpath: //i[@class='fa fa-bars floatLeft menuIcon']]]]>
             </line>
             <line>
-              <![CDATA[Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Weekend Getaways1')]"}
-  (Session info: chrome=58.0.3029.110)
-  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 180 milliseconds
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.3.1', revision: '5234b325d5', time: '2017-03-10 09:10:29 +0000'
-System info: host: 'VIGNESH-PC', ip: '192.168.0.129', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\Vignesh\AppData\Local\Temp\scoped_dir6844_16637}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
-Session ID: 621394627b543e1d20de0a7bfb8a0bba
-*** Element info: {Using=xpath, value=//a[contains(text(),'Weekend Getaways1')]}]]>
+              <![CDATA[Found Element By : By.xpath: //a[contains(text(),'About Us')]]]>
             </line>
             <line>
-              <![CDATA[Exception occured:]]>
+              <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (bfe67850ba01ea29cefa53ef81e25852)] -> xpath: //a[contains(text(),'About Us')]]]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (bfe67850ba01ea29cefa53ef81e25852)] -> xpath: //a[contains(text(),'About Us')]]]]>
+            </line>
+            <line>
+              <![CDATA[Found Element By : By.xpath: //h1[contains(text(),'About TheTripWorks')]]]>
+            </line>
+            <line>
+              <![CDATA[Found Element By : By.xpath: //span[@class='aboutNavText'][contains(text(),'How does TheTripWorks')]]]>
+            </line>
+            <line>
+              <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (bfe67850ba01ea29cefa53ef81e25852)] -> xpath: //span[@class='aboutNavText'][contains(text(),'How does TheTripWorks')]]]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (bfe67850ba01ea29cefa53ef81e25852)] -> xpath: //span[@class='aboutNavText'][contains(text(),'How does TheTripWorks')]]]]>
+            </line>
+            <line>
+              <![CDATA[Found Element By : By.xpath: //span[@class='aboutNavText'][contains(text(),'Contact')]]]>
+            </line>
+            <line>
+              <![CDATA[Trying to click on: [[ChromeDriver: chrome on XP (bfe67850ba01ea29cefa53ef81e25852)] -> xpath: //span[@class='aboutNavText'][contains(text(),'Contact')]]]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on: [[ChromeDriver: chrome on XP (bfe67850ba01ea29cefa53ef81e25852)] -> xpath: //span[@class='aboutNavText'][contains(text(),'Contact')]]]]>
+            </line>
+            <line>
+              <![CDATA[Found Element By : By.xpath: //span[contains(text(),'Pune')]]]>
             </line>
           </reporter-output>
-        </test-method> <!-- selectpackage -->
-        <test-method status="PASS" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:com.test.automation.uiAutomation.homepage.TC003_booking@6b53e23f]" name="aftermethod" is-config="true" duration-ms="1099" started-at="2017-05-25T14:45:46Z" finished-at="2017-05-25T14:45:47Z">
+        </test-method> <!-- verify_aboutus -->
+        <test-method status="PASS" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:com.test.automation.uiAutomation.aboutus.TC001_aboutus@77e4c80f]" name="aftermethod" is-config="true" duration-ms="1" started-at="2017-06-06T12:44:09Z" finished-at="2017-06-06T12:44:09Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=selectpackage status=FAILURE method=TC003_booking.selectpackage()[pri:0, instance:com.test.automation.uiAutomation.homepage.TC003_booking@6b53e23f] output=Found Element By : By.xpath: //a[@class='signinLink'][text()='Log In'] ]]]>
+                <![CDATA[[TestResult name=verify_aboutus status=SUCCESS method=TC001_aboutus.verify_aboutus()[pri:0, instance:com.test.automation.uiAutomation.aboutus.TC001_aboutus@77e4c80f] output=Found Element By : By.xpath: //i[@class='fa fa-bars floatLeft menuIcon']]]]>
               </value>
             </param>
           </params>
           <reporter-output>
-            <line>
-              <![CDATA[<a href='D:\workspaces\uiAutomation\src\main\java\com\test\automation\uiAutomation\screenshot\blank_25_05_2017_02_45_46.png'> <img src='D:\workspaces\uiAutomation\src\main\java\com\test\automation\uiAutomation\screenshot\blank_25_05_2017_02_45_46.png' height='100' width='100'/> </a>]]>
-            </line>
           </reporter-output>
         </test-method> <!-- aftermethod -->
-        <test-method status="PASS" signature="endtest()[pri:0, instance:com.test.automation.uiAutomation.homepage.TC003_booking@6b53e23f]" name="endtest" is-config="true" duration-ms="1544" started-at="2017-05-25T14:45:47Z" finished-at="2017-05-25T14:45:49Z">
+        <test-method status="PASS" signature="endtest()[pri:0, instance:com.test.automation.uiAutomation.aboutus.TC001_aboutus@77e4c80f]" name="endtest" is-config="true" duration-ms="3198" started-at="2017-06-06T12:44:09Z" finished-at="2017-06-06T12:44:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endtest -->
-      </class> <!-- com.test.automation.uiAutomation.homepage.TC003_booking -->
-    </test> <!-- test -->
-  </suite> <!-- Regression Suit2 -->
+      </class> <!-- com.test.automation.uiAutomation.aboutus.TC001_aboutus -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

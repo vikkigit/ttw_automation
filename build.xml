@@ -1,74 +1,29 @@
-<project name="My Project" default="help" basedir=".">
-  <!-- Ant Demo Project -->
-  <!-- Define the properties used by the Ant build -->
-  <property name="app.name"      value="helloWorld"/>
-  <property name="app.version"   value="1.1-dev"/>
-  <property name="tcserver.home" value="/opt/apache-tomcat-7.0.70" />
-  <property name="work.home"    value="${basedir}/work"/>
-  <property name="dist.home"     value="${basedir}/dist"/>
-  <property name="src.home"      value="${basedir}/src"/>
-  <property name="web.home"      value="${basedir}/web"/>
+<?xml version="1.0" encoding="UTF-8"?>
 
-  <target name="help">
-    <echo>You can use the following targets:</echo>
-    <echo> </echo>
-    <echo>  help    : (default) Prints this message </echo>
-    <echo>  all     : Cleans, compiles, and packages application</echo>
-    <echo>  clean   : Deletes work directories</echo>
-    <echo>  compile : Compiles servlets into class files</echo>
-    <echo>  dist    : Packages artifacts into a deployable WAR</echo>
-    <echo></echo>
-    <echo>For example, to clean, compile, and package all at once, run:</echo>
-    <echo>prompt> ant all </echo>
-  </target>
+<project name="nation" default="full-suite" basedir=".">
 
-  <!-- Define the CLASSPATH for project-->
-  <path id="compile.classpath">
-    <fileset dir="${tcserver.home}/bin">
-      <include name="*.jar"/>
-    </fileset>
-    <pathelement location="${tcserver.home}/lib"/>
-    <fileset dir="${tcserver.home}/lib">
-      <include name="*.jar"/>
-    </fileset>
-  </path>
+    <!-- GLOBAL VARIABLES -->
+    <property name="source" value="app" />
+    <!-- END -->
 
-  <target name="all" depends="clean,compile,dist"
-          description="Clean work dirs, then compile and create a WAR"/>
+    <!-- AVAILABLE COMMANDS -->
+    <target name="full-suite" depends="date, list" />
+    <!-- END -->
 
-  <target name="clean"
-          description="Delete old work and dist directories">
-    <delete dir="${work.home}"/>
-    <delete dir="${dist.home}"/>
-  </target>
+    <!-- DATE -->
+    <target name="date">
+        <echo message="Printing system date ..."/>
+        <exec executable="date" />
+    </target>
+    <!-- END -->
 
-  <target name="prepare" depends="clean"
-          description="Create working dirs and copy static files to work dir">
-    <mkdir  dir="${dist.home}"/>
-    <mkdir  dir="${work.home}/WEB-INF/classes"/>
-    <!-- Copy static HTML and JSP files to work dir -->
-    <copy todir="${work.home}">
-      <fileset dir="${web.home}"/>
-    </copy>
-  </target>
+    <!-- LIST -->
+    <target name="list">
+        <echo message="Listing source folder ..."/>
+        <exec executable="ls">
+            <arg line="-l ${source}" />
+        </exec>
+    </target>
+    <!-- END -->
 
-  <target name="compile" depends="prepare"
-          description="Compile Java sources and copy to WEB-INF/classes dir">
-    <javac srcdir="${src.home}"
-          destdir="${work.home}/WEB-INF/classes">
-        <classpath refid="compile.classpath"/>
-    </javac>
-    <copy  todir="${work.home}/WEB-INF/classes">
-      <fileset dir="${src.home}" excludes="**/*.java"/>
-    </copy>
-
-  </target>
-
-
-  <target name="dist" depends="compile"
-          description="Create WAR file for binary distribution">
-    <jar jarfile="${dist.home}/${app.name}-${app.version}.war"
-         basedir="${work.home}"/>
-  </target>
-
-</project> 
+</project>

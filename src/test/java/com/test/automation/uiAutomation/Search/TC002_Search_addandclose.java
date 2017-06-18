@@ -28,33 +28,32 @@ public class TC002_Search_addandclose extends Testbase {
 			Thread.sleep(3000);
 
 		}
-		scrolldown();
+		//scrolldown();
 		search.closeroom();
 		Thread.sleep(2000);
-		search.alert_child_adult();
+		search.room_alert();
 		Thread.sleep(3000);
 		search.close_search();
 		Thread.sleep(3000);
 
-		Thread.sleep(4000);
-		search.alert_child_adult();
-		Thread.sleep(30000);
 
 	}
 
-	@Test(alwaysRun = true)
+	/*@Test(alwaysRun = true)
 	public void alertdestination() throws InterruptedException {
 		search.clicksearch();
 		search.booknow();
 		Thread.sleep(3000);
 		search.alert_destination();
 
-	}
+	}*/
 
 	@Test(alwaysRun = true)
 	public void check_resetdate() throws InterruptedException {
 
-		//search.clicksearch();
+		search.clicksearch();
+		//search.calendar_click();
+		
 		search.dates();
 
 		Thread.sleep(2000);

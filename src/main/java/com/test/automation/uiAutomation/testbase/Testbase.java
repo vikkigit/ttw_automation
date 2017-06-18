@@ -66,7 +66,7 @@ public class Testbase {
 	public void loadpropdata() throws IOException {
 
 		File file = new File(System.getProperty("user.dir")
-				+ "/src/test/java/com/test/automation/uiAutomation/addtocart/config.properties");
+				+ "/src/main/java/com/test/automation/uiAutomation/properties/config.properties");
 		FileInputStream f = new FileInputStream(file);
 		prop.load(f);
 

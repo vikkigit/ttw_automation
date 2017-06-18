@@ -11,8 +11,8 @@ import com.test.automation.uiAutomation.testbase.Testbase;
 
 public class Search extends Testbase {
 
-	public final String fromdate = "Select Wednesday, Jun 7, 2017";
-	public final String todate = "Select Friday, Jun 9, 2017";
+	public final String fromdate = "Select Wednesday, Jul 13, 2017";
+	public final String todate = "Select Friday, Jul 15, 2017";
 	public final int adult = 3;
 	public final int budget = 4;
 	public final int child = 2;
@@ -102,7 +102,7 @@ public class Search extends Testbase {
 	public void select_adult(int adult) {
 		adult_logo.click();
 		driver.findElement(By.xpath("//select[@id='adult_1']/option[contains(text(),'" + adult + "')]")).click();
-		;
+		
 	}
 
 	public void alert_child_adult() {
@@ -146,7 +146,9 @@ public class Search extends Testbase {
 	}
 	
 	
-	
+	public void calendar_click(){
+		calendar.click();
+	}
 
 	public void booknow() {
 		booknow.click();
@@ -183,7 +185,9 @@ public class Search extends Testbase {
 		}
 	}
 	
-	
+	public void room_alert(){
+		alertify.click();
+	}
 	
 	
 	

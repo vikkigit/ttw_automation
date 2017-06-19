@@ -10,8 +10,8 @@
 			<class name="com.test.automation.uiAutomation.homepage.TC001_verifylogin_withinvalidcredentials" />
 
 
-			<!-- <class name="com.test.automation.uiAutomation.homepage.TC002_verifylogin_withvalidcredentials" />
-			<class name="com.test.automation.uiAutomation.homepage.TC003_booking" />
+			 <class name="com.test.automation.uiAutomation.homepage.TC002_verifylogin_withvalidcredentials" />
+		<!--	<class name="com.test.automation.uiAutomation.homepage.TC003_booking" />
  -->
 
 

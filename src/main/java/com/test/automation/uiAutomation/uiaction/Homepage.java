@@ -178,7 +178,7 @@ public class Homepage extends Testbase {
 	
 	public void clickonnavigation_menu(String menuname){
 		//driver.findElement(By.xpath("//a[contains(text(),'"+menuname+"')]")).click();
-		driver.findElement(By.xpath("//a[@href='"+menuname+"']"));
+		driver.findElement(By.xpath("//a[@href='"+menuname+"']")).click();
 		log.info("clicked on :"+menuname+"navigation menu");
 	}
 	

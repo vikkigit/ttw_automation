@@ -24,9 +24,11 @@ public class TC002_verifylogin_withvalidcredentials extends Testbase {
 		return testrecords;
 
 	}
+	
 	@BeforeTest
 	public void setup() throws IOException {
 		init();
+		
 		
 	}
 

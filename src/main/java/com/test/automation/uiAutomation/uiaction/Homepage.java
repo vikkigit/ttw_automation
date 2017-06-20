@@ -15,7 +15,7 @@ public class Homepage extends Testbase {
 	
 	public static final Logger log=Logger.getLogger(Homepage.class.getName());
 	
-	public final String weekendgateways="Weekend Getaways1";
+	public final String weekendgateways="https://thetripworks.com/weekend_getaways";
 	
 	WebDriver driver;
 	
@@ -177,14 +177,13 @@ public class Homepage extends Testbase {
 	
 	
 	public void clickonnavigation_menu(String menuname){
-		driver.findElement(By.xpath("//a[contains(text(),'"+menuname+"')]")).click();
+		//driver.findElement(By.xpath("//a[contains(text(),'"+menuname+"')]")).click();
+		driver.findElement(By.xpath("//a[@href='"+menuname+"']"));
 		log.info("clicked on :"+menuname+"navigation menu");
 	}
 	
 	
-	
-	
-	
+
 
 	
 	

@@ -64,11 +64,14 @@ public class Sociallogins extends Testbase {
 	@FindBy(xpath = "//input[@id='identifierId']")
 	WebElement g_email;
 	
-	@FindBy(xpath="//div[@class='ZFr60d CeoRYc']")
+	@FindBy(xpath="//span[@class='RveJvd snByac']")
 	WebElement g_next;
 	
 	@FindBy(xpath="//input[@class='whsOnd zHQkBf']")
 	WebElement g_pwd;
+	
+	@FindBy(xpath="//div[@id='passwordNext']")
+	WebElement g_login;
 	
 	
 
@@ -144,11 +147,14 @@ public class Sociallogins extends Testbase {
 		}
 	}
 	
-	public void sigin_gplus(){
-		g_email.sendKeys("vicky24.ttw@gmail.com");
+	public void sigin_gplus() throws InterruptedException{
+		g_email.sendKeys("vikkiwiggi@gmail.com");
 		g_next.click();
+		Thread.sleep(2000);
 		g_pwd.sendKeys("vvv9894502383");
-		g_next.click();
+		Thread.sleep(2000);
+		g_login.click();
+		Thread.sleep(4000);
 	}
 
 	/*--------------------insta------------------------------------*/

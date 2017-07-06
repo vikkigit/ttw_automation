@@ -30,11 +30,7 @@ public class Search extends Testbase {
 	@FindBy(xpath = "//i[@class='fa fa-calendar']")
 	WebElement calendar;
 
-	@FindBy(xpath = "//a[contains(text(),'Next >')]")
-	WebElement calendarnext;
 
-	@FindBy(xpath = "//a[contains(text(),'< Prev')]")
-	WebElement calendarprev;
 
 	@FindBy(xpath = "//i[@class='fa fa-users']")
 	WebElement adult_logo;
@@ -72,6 +68,8 @@ public class Search extends Testbase {
 	@FindBy(xpath="//div[@id='resetDate']")
 	WebElement resetdate;
 	
+	@FindBy(xpath="//div[@class='datepick-month first']/div")
+	WebElement month_heading;
 
 	
 
@@ -84,14 +82,13 @@ public class Search extends Testbase {
 	public void search(String destination) throws InterruptedException {
 		searchicon.click();
 		searchinput.sendKeys(destination);
-		calendar.click();
 
 	}
 
-	public void calendar_navigation() {
-		calendarnext.click();
-		calendarnext.click();
-		calendarprev.click();
+	public void calendar_navigation(String navigate ) {
+		
+		driver.findElement(By.xpath("//a[contains(text(),'"+navigate+"')]")).click();
+		
 	}
 
 	public void select_child(int child) {
@@ -127,20 +124,22 @@ public class Search extends Testbase {
 		;
 	}
 
-	public void select_from_date(String fromdate) {
-		driver.findElement(By.xpath("//td/a[@title='" + fromdate + "']")).click();
-		;
+	public void select_from_date() {
+		//driver.findElement(By.xpath("//td/a[@title='" + fromdate + "']")).click();
+		driver.findElement(By.xpath("//div[@class='datepick-month first']/table/tbody/tr[2]/td[1]/a")).click();
+		//Select Monday, Aug 21, 2017
+		//div[@class='datepick-month first']/table/tbody/tr[2]/td[1]/a[@title='Select Monday, Aug 7, 2017']
 	}
 
-	public void select_to_date(String todate) {
-		driver.findElement(By.xpath("//td/a[@title='" + todate + "']")).click();
+	public void select_to_date() {
+		driver.findElement(By.xpath("//div[@class='datepick-month first']/table/tbody/tr[2]/td[4]/a")).click();
 		
 	}
 
 	public void dates() throws InterruptedException {
-		select_from_date(fromdate);
+		select_from_date();
 		Thread.sleep(3000);
-		select_to_date(todate);
+		select_to_date();
 		Thread.sleep(2000);
 		// booknow.click();
 	}
@@ -198,6 +197,39 @@ public class Search extends Testbase {
 		searchicon.click();
 	}
 	
+	
+/*	public boolean month_heading(String month){
+		try {
+			driver.findElement(By.xpath("//div[contains(text(),'"+month+"')]"));
+			return true;
+		} catch (Exception e) {
+			return false ;
+			
+		}
+		
+	}*/
+	
+	public boolean month_heading(String month){
+		String month_title=month_heading.getText();
+		System.out.println(month_title);
+		try {
+			month_title=month;
+			return true;
+		} catch (Exception e) {
+			return false;
+		}
+		
+	}
+	
+	public boolean validate_dates(){
+		try {
+			String dates=driver.findElement(By.xpath("//div[@class='advanceSearcRow']/ul/li[2]")).getText();
+			System.out.println(dates);
+			return true;
+		} catch (Exception e) {
+			return false;
+		}
+	}
 	
 	
 	

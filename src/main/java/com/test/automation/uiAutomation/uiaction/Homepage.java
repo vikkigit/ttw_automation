@@ -14,9 +14,7 @@ import javafx.scene.control.Alert;
 public class Homepage extends Testbase {
 	
 	public static final Logger log=Logger.getLogger(Homepage.class.getName());
-	
-	public final String weekendgateways="https://thetripworks.com/weekend_getaways";
-	
+
 	WebDriver driver;
 	
 	@FindBy(xpath="//img[@alt='The Trip Works']")

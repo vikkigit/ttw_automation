@@ -50,7 +50,7 @@ public class Testbase {
 		extent = new ExtentReports(System.getProperty("user.dir")
 				+ "/src/main/java/com/test/automation/uiAutomation/config/extentreport/"+filename+".html", false);
 	}
-
+	
 	public void init() throws IOException {
 		loadpropdata();
 	
@@ -69,7 +69,7 @@ public class Testbase {
 				+ "/src/main/java/com/test/automation/uiAutomation/properties/config.properties");
 		FileInputStream f = new FileInputStream(file);
 		prop.load(f);
-
+		
 	}
 
 	private void geturl(String url) {

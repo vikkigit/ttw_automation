@@ -30,13 +30,13 @@ public class TC001_aboutus extends Testbase {
 		homepage=new Homepage(driver);
 		aboutus=new Aboutus(driver);
 		homepage.menuicon();
-		homepage.clickonnavigation_menu(aboutus.aboutus_menu);
+		homepage.clickonnavigation_menu(prop.getProperty("aboutus_menu"));
 		Thread.sleep(4000);
 		boolean text=aboutus.verify_aboutus();
 		Assert.assertEquals(true, text);
-		aboutus.clickon_aboutus_tab(aboutus.HowTheTripWorks);
+		aboutus.clickon_aboutus_tab(prop.getProperty("HowTheTripWorks"));
 		Thread.sleep(3000);
-		aboutus.clickon_aboutus_tab(aboutus.Contact);
+		aboutus.clickon_aboutus_tab(prop.getProperty("Contact"));
 		boolean contact_text=aboutus.verify_contact();
 		Assert.assertEquals(contact_text, true);
 	}

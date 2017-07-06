@@ -43,7 +43,8 @@ public class TC002_verifylogin_withvalidcredentials extends Testbase {
 		homepage.verifying_valid_login(email, password);	
 		homepage.menuicon();
 		Thread.sleep(5000);
-		homepage.clickonnavigation_menu(homepage.weekendgateways);
+		
+		homepage.clickonnavigation_menu(prop.getProperty("weekendgateways_menu"));
 		Thread.sleep(10000);
 	//	getScreenShot("testlogin-"+email);
 	}

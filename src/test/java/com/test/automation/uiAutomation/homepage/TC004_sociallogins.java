@@ -20,7 +20,7 @@ public class TC004_sociallogins extends Testbase {
 		init();
 	}
 
-	@Test
+/*	@Test
 	public void signthrough_fb() throws InterruptedException {
 		social = new Sociallogins(driver);
 		homepage = new Homepage(driver);
@@ -44,7 +44,7 @@ public class TC004_sociallogins extends Testbase {
 	}
 	
 	
-	@Test(priority=1)
+	@Test(priority=2)
 	public void signthrough_tweet() throws InterruptedException{
 		homepage.signin();
 		Thread.sleep(4000);
@@ -68,15 +68,16 @@ public class TC004_sociallogins extends Testbase {
 		homepage.signout();
 		Thread.sleep(5000);
 		
-	}
+	}*/
 	
-	@Test(priority=2)
+	@Test(priority=1)
 	public void signthorough_g() throws InterruptedException{
 		social = new Sociallogins(driver);
 		homepage = new Homepage(driver);
 		homepage.signin();
 		Thread.sleep(4000);
 		social.glink_click();
+		
 		Iterator<String> itr = allwindows();
 		String parentwindow = itr.next();
 		String childwindow = itr.next();

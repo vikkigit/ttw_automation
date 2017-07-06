@@ -41,11 +41,11 @@ public class TC003_booking extends Testbase {
 		homepage.verifying_valid_login(emailid, passcode);
 		Thread.sleep(5000);
 		homepage.menuicon();
-		homepage.clickonnavigation_menu(homepage.weekendgateways);
+		homepage.clickonnavigation_menu(prop.getProperty("weekendgateways_menu"));
 		Thread.sleep(7000);
 
 		product.selectpackage(product.Blissful_Manali);
-		Thread.sleep(10000);Properties prop=new Properties();
+		
 		/*
 		 * product.booknow(); Thread.sleep(5000);
 		 * product.selectdate(product.date); Thread.sleep(5000);

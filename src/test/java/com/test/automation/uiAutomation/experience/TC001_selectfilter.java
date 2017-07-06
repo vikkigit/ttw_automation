@@ -28,11 +28,11 @@ public class TC001_selectfilter extends Testbase {
 		
 		
 		homepage.menuicon();
-		homepage.clickonnavigation_menu(prop.getProperty("experiencemenu"));
+		homepage.clickonnavigation_menu(prop.getProperty("experience_menu"));
 		Thread.sleep(4000);
 		boolean titlename=experience.verify_experience();
 		
-	
+			
 		Assert.assertEquals(titlename, true);
 //		
 //		Thread.sleep(15000);

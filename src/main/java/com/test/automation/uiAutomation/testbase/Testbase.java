@@ -42,18 +42,18 @@ public class Testbase {
 	public static ExtentReports extent;
 	public ExtentTest test;
 	Excelreader excel;
-	
-	static{
-		Calendar calendar= Calendar.getInstance();
-		SimpleDateFormat formater=new SimpleDateFormat("dd_MM_yyyy_hh_mm_ss");
-		String filename=formater.format(calendar.getTime());
+
+	static {
+		Calendar calendar = Calendar.getInstance();
+		SimpleDateFormat formater = new SimpleDateFormat("dd_MM_yyyy_hh_mm_ss");
+		String filename = formater.format(calendar.getTime());
 		extent = new ExtentReports(System.getProperty("user.dir")
-				+ "/src/main/java/com/test/automation/uiAutomation/config/extentreport/"+filename+".html", false);
+				+ "/src/main/java/com/test/automation/uiAutomation/config/extentreport/" + filename + ".html", false);
 	}
-	
+
 	public void init() throws IOException {
 		loadpropdata();
-	
+
 		selectbrowser(prop.getProperty("browser"));
 		driver.manage().window().maximize();
 		geturl(prop.getProperty("url"));
@@ -69,7 +69,7 @@ public class Testbase {
 				+ "/src/main/java/com/test/automation/uiAutomation/properties/config.properties");
 		FileInputStream f = new FileInputStream(file);
 		prop.load(f);
-		
+
 	}
 
 	private void geturl(String url) {
@@ -168,15 +168,12 @@ public class Testbase {
 	public void endtest() {
 		closebrowser();
 	}
-	
-	public Iterator<String> allwindows(){
-		 Set<String> noofwindows = driver.getWindowHandles();
-		 Iterator<String> itr = noofwindows.iterator();
-		 return itr;
+
+	public Iterator<String> allwindows() {
+		Set<String> noofwindows = driver.getWindowHandles();
+		Iterator<String> itr = noofwindows.iterator();
+		return itr;
 	}
-	
-	
-	
 
 	public void closebrowser() {
 		driver.quit();

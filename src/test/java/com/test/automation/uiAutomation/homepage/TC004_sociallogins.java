@@ -95,10 +95,7 @@ public class TC004_sociallogins extends Testbase {
 		
 		homepage.signout();
 		Thread.sleep(5000);
-		
-		
-		
-		
+
 	}
 	
 

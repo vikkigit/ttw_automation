@@ -18,9 +18,10 @@ public class Productlisting extends Testbase {
 
 	public final String Royal_Coochbehar_Tour = "Royal Coochbehar Tour";
 	public final String Blissful_Manali = "Blissful Manali";
+	
 
 	
-	
+	//div[@class='priceRow floatRight']/button
 	@FindBy(xpath = "//button[contains(text(),'Book Now !')]")
 	WebElement booknowbutton;
 
@@ -38,6 +39,13 @@ public class Productlisting extends Testbase {
 
 	@FindBy(xpath = "//h3[@class='priceRow']")
 	WebElement price;
+	
+	@FindBy(xpath="//span[contains(text(),'Next')]")
+	WebElement month_next;
+	
+	
+	@FindBy(xpath="////span[contains(text(),'Prev')]")
+	WebElement month_prev;
 
 	WebDriver driver;
 
@@ -101,6 +109,11 @@ public class Productlisting extends Testbase {
 		
 		
 		
+	}
+	
+	
+	public void navigate_month(String cmd){
+		driver.findElement(By.xpath("//span[contains(text(),'"+cmd+"')]")).click();
 	}
 	
 	

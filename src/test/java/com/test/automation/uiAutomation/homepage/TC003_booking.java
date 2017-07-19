@@ -36,18 +36,23 @@ public class TC003_booking extends Testbase {
 		cartpage = new Cartpage(driver);
 		checkout = new Checkoutpage(driver);
 
-		homepage.signin();
+	/*	homepage.signin();
 		Thread.sleep(2000);
 		homepage.verifying_valid_login(emailid, passcode);
-		Thread.sleep(5000);
+		Thread.sleep(5000);*/
 		homepage.menuicon();
 		homepage.clickonnavigation_menu(prop.getProperty("weekendgateways_menu"));
 		Thread.sleep(7000);
 
 		product.selectpackage(product.Blissful_Manali);
-		
+		 product.booknow(); Thread.sleep(5000);
+		 product.fromdate();
+		 product.navigate_month(prop.getProperty("next"));
+		 
+		 product.navigate_month(prop.getProperty("prev"));
+		 
 		/*
-		 * product.booknow(); Thread.sleep(5000);
+		 *
 		 * product.selectdate(product.date); Thread.sleep(5000);
 		 * product.popup_booknow(); Thread.sleep(5000);
 		 * 
